@@ -85,6 +85,7 @@ random, so read those as examples of the analysis and not as real findings.
   transform code.
 - **The database checks too.** `CHECK` constraints would refuse a zero quantity
   or a negative price even if the cleaning missed it.
+- **A source it can't read stops the run.** If a file's columns aren't recognised (a renamed header, or a CSV whose first header carries Excel's invisible byte-order mark), the pipeline stops with a message that lists the columns it found and where to add the new name. Without that check, every row would quietly land in the rejects.
 - **One assumption to know about:** dates with slashes, like `05/03/2026`, are
   read as day/month/year. Dates that can't be read are rejected, not guessed.
 
@@ -94,7 +95,8 @@ random, so read those as examples of the analysis and not as real findings.
 pip install -r requirements.txt
 python generate_messy_data.py    # optional: rebuild the sample raw files
 python run_pipeline.py           # extract, transform, load, report, insights
-python -m pytest tests -q        # 9 tests
+python -m pytest tests -q        # 14 tests
+python run_pipeline.py --raw-dir path\to\your\exports   # your own files
 ```
 
 You get `output/Sales_Report.xlsx`, `output/insights.md` and a SQLite database at
