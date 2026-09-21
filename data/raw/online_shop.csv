@@ -1,0 +1,536 @@
+order_id,date,customer,item,quantity,price,discount,channel
+W50206,"May 10, 2026",Hannah Iqbal,Bluetooth Speaker,1,77.66,0.0,Web
+W50127,2026-01-23,Zara Iqbal,Laptop Stand,1,34.47,0.0,web 
+W50360,2026-05-17,Ayesha Rossi,Laptop Stand,2,35.4,0.15,Web
+W50197,2026-05-25,Ayesha Raza,Noise-Cancelling Headphones,5,152.42,0.15,WEB
+W50009,2026-04-24,Bilal Khan,usb-c cable,1,12.66,0.0,web 
+W50511,2026-02-23,Emma Butt,Docking Station,5,131.47,0.1,Website
+W50514,2026-01-12,Usman Clarke,Ergonomic Chair,2,249.04,0.0,Web
+W50445,2026-03-21,Ethan Miller,Webcam HD,3,60.72,0.0,WEB
+W50348,2026-06-15,Sofia Taylor,Bluetooth Speaker,5,79.38,0.1,Web
+W50256,2026-03-29,Ayesha Davis,Laptop Stand,2,33.97,0.0,Web
+W50375,2026-01-26,Omar Taylor, Docking Station,5,125.94,0.15,Website
+W50054,2026-03-12,,NOISE-CANCELLING HEADPHONES,5,146.14,0.0,Website
+W50459,2026-05-24,Ayesha Walker,27 inch Monitor,2,220.49,0.1,Website
+W50168,"May 02, 2026",Maya Davis,BLUETOOTH SPEAKER,3,81.29,0.0,web 
+W50305,2026-02-22,Liam Davis,Docking Station ,1,132.1,0.1,web 
+W50221,2026-04-20,Zara Iqbal,BLUETOOTH SPEAKER,2,78.5,0.0,WEB
+W50020,2026-05-21,Liam Patel,external ssd 1tb,1,97.92,0.05,WEB
+W50183,"Mar 05, 2026",Hannah Malik, Wireless Mouse,1,24.07,0.15,WEB
+W50279,2026-01-01,Ali Raza,Webcam HD,1,59.02,0.0,Website
+W50140,2026-01-30,Sofia Rossi,mechanical keyboard,2,86.46,0.15,WEB
+W50497,2026-01-14,Hassan Rossi,wireless mouse,1,24.55,0.05,Web
+W50128,"Feb 27, 2026",Hassan Brown,Bluetooth Speaker ,4,77.17,0.0,WEB
+W50085,"Jan 18, 2026",,USB C Cable,1,12.89,0.05,Web
+W50320,2026-01-12,Sofia Wilson,27-INCH MONITOR,3,219.98,0.15,Web
+W50247,2026-01-22,Ayesha Khan,Noise Cancelling Headphones,4,150.17,0.15,web 
+W50047,2026-02-26,,Webcam HD,4,59.67,0.05,Web
+W50384,2026-03-25,Fatima Sheikh,Noise-Cancelling Headphones,2,149.37,0.0,WEB
+W50264,2026-05-13,Bilal Malik, Noise-Cancelling Headphones,1,150.89,0.0,Website
+W50335,2026-03-22,Daniel Sheikh,Wireless Mouse ,4,24.77,0.0,Web
+W50022,2026-05-20,Liam Sheikh,27-inch Monitor ,2,220.38,0.0,WEB
+W50071,2026-02-09,Liam Walker, Webcam HD,3,58.22,0.15,Website
+W50072,2026-03-26,Daniel Walker,27 inch Monitor,1,218.04,0.0,web 
+W50211,2026-06-28,Ayesha Ahmed,Ergonomic Chair,2,253.16,0.0,Web
+W50186,2026-05-04,,USB-C Cable,1,12.92,0.0,Website
+W50328,2026-04-25,Olivia Walker, Mechanical Keyboard,1,87.95,0.0,web 
+W50455,2026-06-12,Usman Miller, External SSD 1TB,3,101.16,0.0,WEB
+W50005,2026-03-13,Hassan Malik,Laptop Stand,4,35.55,0.15,Web
+W50274,"Jun 23, 2026",Ali Malik, Webcam HD,1,60.62,0.0,Web
+W50152,2026-03-06,Noah Patel,Bluetooth Speaker,1,79.3,0.0,Web
+W50154,2026-01-17,Fatima Hussain,Noise Cancelling Headphones,5,147.12,0.1,Web
+W50229,2026-01-24,Sofia Brown,Ergonomic Chair,2,247.14,0.05,web 
+W50268,2026-02-23,Hassan Khan,noise-cancelling headphones,5,152.5,0.0,WEB
+W50151,2026-02-19,Chloe Rossi,Docking Station,1,127.37,0.05,Web
+W50041,"May 12, 2026",Ali Walker,ergonomic chair,1,248.97,0.15,WEB
+W50030,2026-05-12,Hannah Raza,Laptop Stand,3,35.77,0.0,web 
+W50385,2026-01-02,Noah Patel,27-inch Monitor,1,212.91,0.0,web 
+W50416,"May 16, 2026",Liam Walker, Noise-Cancelling Headphones,1,152.25,0.0,Website
+W50303,2026-03-25,Ayesha Ahmed,WIRELESS MOUSE,2,24.37,0.1,WEB
+W50059,2026-03-28,Hannah Sheikh,Bluetooth Speaker,3,79.05,0.1,Web
+W50476,2026-01-08,Hassan Wilson,NOISE-CANCELLING HEADPHONES,1,150.36,0.1,web 
+W50363,2026-01-16,Noah Butt,external ssd 1tb,5,96.59,0.0,Web
+W50399,2026-03-21,Usman Ahmed,Wireless Mouse,5,23.84,0.15,web 
+W50383,2026-04-21,Fatima Khan,Docking Station ,1,126.7,0.0,Web
+W50470,2026-04-07,Hassan Brown,mechanical keyboard,1,89.97,0.1,WEB
+W50064,2026-03-07,Bilal Patel,usb-c cable,2,13.17,0.0,WEB
+W50281,2026-02-07,Chloe Wilson,mechanical keyboard,1,89.02,0.05,web 
+W50334,2026-04-28,Daniel Patel,Bluetooth Speaker,2,78.15,0.1,Web
+W50222,2026-06-29,Liam Moore,Docking Station,4,126.61,0.0,web 
+W50145,2026-03-09,Fatima Clarke,Bluetooth Speaker ,5,78.48,0.1,Website
+W50296,2026-04-30,,Laptop Stand,2 pcs,35.7,0.0,WEB
+W50490,2026-06-28,Bilal Clarke,WIRELESS MOUSE,2,24.2,0.0,Website
+W50489,2026-06-08,Ali Iqbal,usb-c cable,2,13.01,0.0,Website
+W50315,"Jun 28, 2026",  ,SMART LED LAMP,1,29.13,0.1,Website
+W50175,"Jun 20, 2026",Chloe Rossi,external ssd 1tb,2,98.69,0.0,web 
+W50232,2026-03-31,Ali Walker, Smart LED Lamp,-1,30.78,0.1,web 
+W50400,2026-06-27,Daniel Malik,wireless mouse,1,24.83,0.1,Web
+W50327,2026-02-09,Usman Davis,Smart LED Lamp ,3,29.41,0.05,web 
+W50372,2026-06-13,Noah Ahmed,Wireless Mouse,2,24.09,0.05,Website
+W50300,"Jan 26, 2026",Ayesha Raza,Mechanical Keyboard,4,87.66,0.15,web 
+W50125,2026-06-14,,Wireless Mouse,1,N/A,0.15,WEB
+W50180,2026-03-25,Daniel Moore,Smart LED Lamp,3,30.0,0.0,WEB
+W50067,2026-03-11,Usman Miller,USB-C Cable,3,12.88,0.0,Website
+W50008,2026-02-03,Hassan Wilson,Ergonomic Chair,2,245.41,0.1,web 
+W50106,2026-03-18,Sofia Malik,laptop stand,5,35.21,0.0,Web
+W50353,2026-04-10,Ethan Walker,Docking Station,5 pcs,128.65,0.0,Web
+W50478,"Feb 01, 2026",Sofia Butt,Webcam HD ,1,57.91,0.15,Website
+W50463,2026-04-22,Emma Wilson,Smart LED Lamp,4,29.42,0.1,web 
+W50121,2026-05-28,Fatima Walker,Mechanical Keyboard,5,89.46,0.0,web 
+W50201,"May 16, 2026",Maya Clarke,27-inch Monitor,1,215.68,0.1,WEB
+W50242,2026-06-02,Olivia Butt,Mechanical Keyboard,1,87.35,0.0,Web
+W50270,2026-06-03,Omar Patel,27-inch Monitor,1,213.77,0.1,web 
+W50379,2026-06-11,Noah Brown,EXTERNAL SSD 1TB,5,100.13,0.05,Website
+W50150,"Jan 05, 2026",Ayesha Clarke,Wireless Mouse ,2,24.7,0.0,Website
+W50218,2026-01-18,Ethan Raza,NOISE-CANCELLING HEADPHONES,2,147.14,0.0,Web
+W50108,2026-05-04,Hannah Wilson,Docking Station ,5,128.05,0.05,web 
+W50313,2026-02-17,Sofia Hussain,Noise-Cancelling Headphones ,1,146.42,0.0,Web
+W50435,2026-03-14,Olivia Moore,bluetooth speaker,3,77.59,0.1,Web
+W50124,2026-06-02,Noah Walker,Smart LED Lamp,3,29.76,0.05,Web
+W50017,"May 01, 2026",Bilal Iqbal,Mechanical Keyboard ,2,89.34,0.0,web 
+W50015,2026-03-01,Emma Iqbal,Noise Cancelling Headphones,2,152.78,0.0,WEB
+W50339,"Feb 04, 2026",Noah Ahmed,Wireless Mouse ,1,25.17,0.05,Web
+W50411,2026-02-01,Chloe Taylor,Mechanical Keyboard ,1,86.36,0.0,WEB
+W50278,2026-03-04,Hannah Khan,27-inch Monitor ,2,214.15,0.05,Web
+W50204,2026-01-01,Olivia Butt,Mechanical Keyboard ,1,88.07,0.0,Web
+W50099,2026-05-20,Noah Taylor, 27-inch Monitor,3,219.88,0.0,Web
+W50467,2026-05-08,Noah Sheikh,Noise-Cancelling Headphones ,3,146.8,0.0,web 
+W50358,2026-01-06,Sofia Taylor,Mechanical Keyboard ,3,91.58,0.1,web 
+W50255,2026-02-26,Maya Brown,USB-C Cable,3,13.21,0.05,web 
+W50157,2026-02-28,Hassan Ahmed,webcam hd,3,59.03,0.1,Website
+W50319,2026-06-04,Maya Davis,27-inch Monitor,2,216.01,0.0,Website
+W50332,2026-02-16,Ali Hussain,wireless mouse,3,23.85,0.15,WEB
+W50390,2026-01-02,Chloe Raza, Bluetooth Speaker,1,80.37,0.05,Website
+W50165,2026-06-16,Ethan Wilson, Ergonomic Chair,4,249.23,0.0,Web
+W50215,2026-02-02,Noah Taylor,WIRELESS MOUSE,1,25.05,0.05,Website
+W50193,2026-01-27,Bilal Raza,SMART LED LAMP,1,29.3,0.1,Web
+W50477,2026-01-10,Olivia Taylor,USB-C Cable,1,13.07,0.0,WEB
+W50055,2026-05-20,Ali Brown,Wireless Mouse,1,24.73,0.0,Web
+W50265,2026-03-12,Hassan Ahmed,Wireless Mouse,5,23.98,0.1,Web
+W50081,2026-06-12,Daniel Moore, Noise-Cancelling Headphones,2,146.94,0.15,Web
+W50118,2026-06-22,Omar Raza,laptop stand,5,34.86,0.15,Website
+W50361,"Jan 19, 2026",Usman Wilson,WEBCAM HD,2,60.45,0.0,Website
+W50178,2026-03-10,Hassan Wilson,Bluetooth Speaker,1,77.54,0.15,Web
+W50185,"Jan 15, 2026",Liam Taylor,Mechanical Keyboard,-1,86.69,0.0,Web
+W50048,"Feb 09, 2026",Sofia Rossi, Wireless Mouse,1,24.56,0.0,web 
+W50374,"May 01, 2026",Liam Patel,Noise-Cancelling Headphones,4,151.65,0.0,Web
+W50294,"Jan 30, 2026",Olivia Iqbal,ergonomic chair,5,244.14,0.0,Website
+W50065,2026-03-20,Emma Sheikh, Ergonomic Chair,1,252.81,0.15,Website
+W50449,2026-02-09,Zara Wilson,MECHANICAL KEYBOARD,1,90.45,0.05,web 
+W50373,2026-01-29,Maya Raza,EXTERNAL SSD 1TB,3,101.94,0.0,Web
+W50087,2026-01-26,,MECHANICAL KEYBOARD,5,86.94,0.0,Web
+W50441,2026-05-03,Zara Taylor,27 inch Monitor,1,213.85,0.0,WEB
+W50053,"Jan 14, 2026",Noah Hussain,27-INCH MONITOR,3,214.67,0.0,Website
+W50352,2026-03-15,Daniel Khan,LAPTOP STAND,4,34.57,0.15,WEB
+W50002,2026-01-02,Sofia Clarke,Ergonomic Chair,1,247.15,0.0,WEB
+W50195,2026-03-05,Hassan Taylor,BLUETOOTH SPEAKER,4,77.12,0.15,Web
+W50436,2026-02-26,Bilal Hussain,27-inch monitor,1,218.83,0.1,WEB
+W50474,2026-01-01,Maya Sheikh,Noise-Cancelling Headphones,2,145.3,0.0,Web
+W50250,2026-06-26,Hannah Taylor,Smart LED Lamp ,2 pcs,29.6,0.05,Website
+W50032,2026-05-22,Hannah Sheikh,Webcam HD,3,58.13,0.0,web 
+W50457,2026-01-02,Hannah Khan,Mechanical Keyboard,1,86.74,0.0,web 
+W50288,"Feb 23, 2026",Maya Ahmed,Docking Station,2,128.54,0.0,Web
+W50060,2026-06-08,Zara Moore,27-inch Monitor,1,219.05,0.05,web 
+W50188,2026-04-12,Daniel Moore, Noise-Cancelling Headphones,1,147.42,0.1,Website
+W50461,"Jan 28, 2026",Ethan Hussain,wireless mouse,4,24.57,0.0,WEB
+W50012,2026-05-02,Noah Hussain,27-inch Monitor ,2,224.42,0.0,Web
+W50272,2026-03-18,Olivia Taylor,usb-c cable,5,12.81,0.0,WEB
+W50036,2026-04-02,Noah Rossi,27-inch Monitor ,5,220.17,0.05,Web
+W50035,2026-01-15,Noah Raza, USB-C Cable,1,12.78,0.0,WEB
+W50102,2026-05-14,Ayesha Khan,mechanical keyboard,2,88.68,0.15,Website
+W50141,2026-02-15,Olivia Moore,webcam hd,4,60.4,0.0,Web
+W50275,2026-01-12,Hannah Khan,Docking Station,5,128.52,0.1,WEB
+W50023,2026-03-04,Sofia Raza, Laptop Stand,1,34.38,0.0,Web
+W50170,2026-02-24,Bilal Patel,Docking Station,1,129.19,0.0,Web
+W50052,"Jun 28, 2026",Liam Miller,USB-C Cable ,1,12.69,0.0,Web
+W50421,2026-04-18,Chloe Patel, External SSD 1TB,3,101.65,0.05,web 
+W50198,2026-05-29,Hannah Iqbal,Ergonomic Chair,2,251.01,0.1,Web
+W50245,2026-04-06,Ethan Iqbal,Smart LED Lamp,2,30.12,0.0,Web
+W50043,2026-02-18,Chloe Wilson,Docking Station,1,126.9,0.0,WEB
+W50131,2026-05-17,Olivia Brown,Smart LED Lamp ,2,29.84,0.1,WEB
+W50158,2026-03-20,Hassan Brown,Laptop Stand,4,35.86,0.1,WEB
+W50234,2026-04-25,Daniel Iqbal,Ergonomic Chair ,2,251.41,0.0,web 
+W50115,2026-03-12,Hassan Ahmed,Laptop Stand,5,34.53,0.1,WEB
+W50299,2026-02-25,Sofia Taylor,Ergonomic Chair ,5,253.31,0.1,Website
+W50341,2026-02-09,Olivia Butt, 27-inch Monitor,1,214.48,0.1,web 
+W50046,"Mar 15, 2026",Hassan Patel, Smart LED Lamp,2,29.57,0.15,web 
+W50167,2026-06-24,Sofia Butt,27-inch Monitor,1,223.38,0.0,Web
+W50518,2026-05-18,Usman Ahmed,Webcam HD,2,60.4,0.05,Web
+W50273,2026-05-20,Ayesha Malik, Laptop Stand,5,34.31,0.0,Web
+W50129,2026-01-30,Maya Ahmed,USB-C Cable,5,13.14,0.0,web 
+W50230,"May 28, 2026",Emma Raza,Webcam HD,3,58.61,0.0,Web
+W50254,"Mar 11, 2026",Emma Davis,Noise-Cancelling Headphones,3,146.81,0.15,Web
+W50086,2026-05-10,Emma Davis, Noise-Cancelling Headphones,3,149.14,0.15,Website
+W50448,2026-01-27,Maya Taylor, Mechanical Keyboard,3,89.09,0.0,WEB
+W50501,2026-03-12,Daniel Brown,Webcam HD,1,59.64,0.15,Web
+W50507,2026-04-01,Fatima Butt, Mechanical Keyboard,5,90.73,0.15,Website
+W50224,"Jan 22, 2026",Olivia Clarke,ergonomic chair,2,247.66,0.0,WEB
+W50095,2026-04-13,Daniel Iqbal,smart led lamp,5,30.53,0.1,WEB
+W50314,2026-05-08,Maya Brown,Docking Station ,2,131.51,0.0,web 
+W50105,2026-06-09,Omar Miller,USB-C CABLE,0,13.15,0.15,Website
+W50142,2026-04-29,Ethan Iqbal,Docking Station,5,128.1,0.05,web 
+W50460,2026-01-10,Omar Ahmed,Docking Station,2 pcs,126.51,0.0,Website
+W50370,2026-02-14,Ayesha Khan,Smart LED Lamp ,3 pcs,29.67,0.0,Web
+W50136,2026-03-18,Ali Malik,Mechanical Keyboard,1,89.76,0.15,web 
+W50398,2026-04-10,Noah Raza, Ergonomic Chair,4,242.68,0.0,Website
+W50427,2026-06-17,Bilal Walker, USB-C Cable,2,12.83,0.05,Web
+W50505,2026-05-09,Bilal Khan,Webcam HD,2,59.27,0.0,web 
+W50505,2026-05-09,Bilal Khan,Webcam HD,2,59.27,0.0,WEB
+W50107,2026-01-02,Daniel Davis,Docking Station,2,127.51,0.15,Website
+W50231,"Mar 20, 2026",Chloe Ahmed,wireless mouse,5,24.88,0.05,WEB
+W50324,"May 29, 2026",Emma Walker,Noise Cancelling Headphones,1,147.86,0.0,WEB
+W50423,2026-06-13,Daniel Davis,Ergonomic Chair,2,244.76,0.1,WEB
+W50355,2026-05-06,Liam Brown,usb-c cable,2,12.89,0.1,Web
+W50293,"Mar 08, 2026",Hassan Davis,Noise-Cancelling Headphones,1,148.47,0.0,web 
+W50317,2026-04-27,Daniel Davis,Webcam HD ,2,60.74,0.0,WEB
+W50277,2026-01-11,Zara Clarke, Docking Station,5,N/A,0.15,WEB
+W50475,2026-05-21,Bilal Sheikh,Docking Station,2 pcs,131.03,0.0,Web
+W50101,2026-06-06,Daniel Moore,Wireless Mouse,1,24.16,0.0,WEB
+W50112,2026-04-02,Olivia Malik,ergonomic chair,1,246.72,0.15,WEB
+W50336,2026-05-23,Hassan Taylor,Docking Station ,2,126.2,0.0,Web
+W50282,"Mar 10, 2026",Sofia Brown,Laptop Stand,1,34.91,0.15,Web
+W50092,2026-04-13,Ayesha Walker,27-inch Monitor ,2,221.17,0.05,WEB
+W50054,2026-03-12,,NOISE-CANCELLING HEADPHONES,5,146.14,0.0,web 
+W50343,2026-03-22,Ethan Butt,smart led lamp,5,30.75,0.0,WEB
+W50069,"Feb 17, 2026",Bilal Ahmed, Wireless Mouse,3,24.05,0.05,Website
+W50321,2026-03-28,Zara Brown,Noise-Cancelling Headphones,1,152.27,0.15,WEB
+W50257,2026-02-24,Hassan Ahmed, Mechanical Keyboard,3,88.16,0.1,WEB
+W50482,2026-01-12,Fatima Clarke,ergonomic chair,1,242.66,0.1,Website
+W50097,"Jun 29, 2026",Liam Moore,Mechanical Keyboard,3,87.88,0.1,Web
+W50114,2026-05-10,Fatima Malik,Bluetooth Speaker,2,78.3,0.0,Web
+W50018,"May 08, 2026",Maya Walker,docking station,3,131.99,0.0,Web
+W50441,"May 03, 2026",Zara Taylor,27-inch monitor,1,213.85,0.0,Website
+W50139,2026-03-15,Daniel Davis,Wireless Mouse,2,24.93,0.15,web 
+W50066,2026-02-23,Noah Raza, Smart LED Lamp,-1,30.23,0.15,web 
+W50160,2026-02-04,Usman Clarke,27-inch Monitor ,1,213.47,0.15,WEB
+W50024,2026-05-12,Chloe Ahmed,27-inch Monitor,2,221.22,0.15,WEB
+W50147,"Feb 01, 2026",Usman Khan,27-inch Monitor,4,213.5,0.1,Website
+W50479,"Mar 10, 2026",Emma Raza,Wireless Mouse,3,24.76,0.0,Web
+W50453,2026-05-29,Emma Patel, Bluetooth Speaker,1,80.57,0.15,WEB
+W50337,2026-06-10,Sofia Malik,Laptop Stand ,4,34.02,0.1,WEB
+W50452,2026-04-01,Omar Miller,Docking Station,1,129.3,0.0,Web
+W50191,2026-01-04,Olivia Hussain,WEBCAM HD,4,59.43,0.0,Website
+W50312,2026-06-24,Usman Hussain,Webcam HD,1,59.61,0.15,Website
+W50248,2026-05-08,Fatima Raza,WEBCAM HD,2,58.96,0.0,Web
+W50073,"Apr 06, 2026",Chloe Ahmed,MECHANICAL KEYBOARD,1,91.15,0.05,Web
+W50003,2026-04-22,Emma Hussain,External SSD 1TB ,1,100.37,0.15,web 
+W50058,"May 24, 2026",Emma Butt,ERGONOMIC CHAIR,2,246.18,0.0,WEB
+W50369,"Jan 24, 2026",Usman Clarke, Smart LED Lamp,1,29.55,0.1,Website
+W50109,2026-02-26,Zara Hussain,27-inch Monitor,2,214.18,0.0,Website
+W50004,"Jan 25, 2026",Daniel Iqbal,Webcam HD,2,57.99,0.15,WEB
+W50021,2026-03-14,Emma Sheikh,Wireless Mouse ,3,24.47,0.15,web 
+W50368,2026-02-17,Ali Raza,Webcam HD,2,58.75,0.0,Web
+W50444,2026-02-04,Bilal Khan, Bluetooth Speaker,1,77.62,0.1,Web
+W50464,2026-05-30,Bilal Khan,Webcam HD,1,57.3,0.1,Web
+W50498,2026-03-08,Noah Miller,Smart LED Lamp,3,29.13,0.1,web 
+W50262,2026-06-29,Chloe Brown,27-inch monitor,1,219.47,0.05,Website
+W50405,2026-02-02,Sofia Ahmed,Ergonomic Chair ,2,252.5,0.15,Web
+W50404,2026-06-13,Usman Sheikh,smart led lamp,1,30.41,0.1,WEB
+W50422,2026-04-19,Usman Butt,EXTERNAL SSD 1TB,1,100.6,0.1,web 
+W50424,2026-04-23,Noah Raza,Noise-Cancelling Headphones ,5,146.51,0.15,WEB
+W50347,"Jan 20, 2026",Sofia Wilson,Bluetooth Speaker ,3,77.73,0.15,Website
+W50512,2026-06-17,Chloe Iqbal,Laptop Stand,1,34.37,0.1,Website
+W50098,2026-05-04,Omar Clarke,Mechanical Keyboard,2,87.98,0.15,web 
+W50434,2026-02-06,Usman Rossi,Ergonomic Chair,2,247.11,0.15,Web
+W50437,2026-02-23,Bilal Rossi, Wireless Mouse,4,24.51,0.15,Web
+W50261,2026-06-05,Omar Brown,Laptop Stand ,2,35.8,0.0,Web
+W50419,2026-03-23,Sofia Brown,ergonomic chair,1,250.37,0.1,Web
+W50027,2026-05-17,Liam Khan,External SSD 1TB,2,101.9,0.0,Website
+W50039,"Mar 28, 2026",Sofia Raza, Wireless Mouse,2,23.87,0.05,Web
+W50040,2026-06-25,Hannah Walker, 27-inch Monitor,2,218.11,0.0,Website
+W50252,2026-03-31,Fatima Clarke,Laptop Stand ,1,34.81,0.0,Website
+W50517,2026-03-30,Hassan Walker,USB-C Cable,2 pcs,13.32,0.0,Website
+W50014,2026-01-26,Ali Iqbal,27-inch Monitor,3,221.39,0.15,Web
+W50113,2026-04-14,Liam Moore,Smart LED Lamp,1,29.86,0.0,Website
+W50263,2026-05-08,Hassan Miller,Webcam HD ,2,59.58,0.0,web 
+W50333,2026-06-27,Omar Sheikh,Laptop Stand ,3,34.66,0.0,Website
+W50298,2026-01-30,Hassan Taylor,webcam hd,1,60.66,0.05,Web
+W50003,2026-04-22,Emma Hussain,External SSD 1TB,1,100.37,0.15,WEB
+W50001,2026-04-20,Sofia Raza,Mechanical Keyboard ,2,89.46,0.05,web 
+W50144,2026-05-13,Usman Hussain,NOISE-CANCELLING HEADPHONES,1,149.77,0.15,WEB
+W50451,"Mar 02, 2026",Daniel Patel,27-INCH MONITOR,1,221.01,0.05,WEB
+W50454,2026-01-31,Olivia Ahmed,Wireless Mouse,3,23.84,0.0,Web
+W50223,2026-04-08,Maya Wilson,BLUETOOTH SPEAKER,1,79.27,0.15,Web
+W50338,2026-05-22,Usman Walker,Laptop Stand,4,35.86,0.1,Web
+W50226,2026-06-06,Hannah Walker,bluetooth speaker,2,79.66,0.0,Web
+W50311,2026-02-02,Hassan Taylor,Mechanical Keyboard,2,87.06,0.15,web 
+W50236,2026-05-18,Ali Butt, Bluetooth Speaker,1,76.83,0.0,WEB
+W50450,"Jan 17, 2026",Sofia Raza,WIRELESS MOUSE,1,24.09,0.0,WEB
+W50483,2026-04-07,Hassan Iqbal,Docking Station,1,127.62,0.0,Web
+W50406,2026-01-06,Liam Iqbal,Mechanical Keyboard,1,86.36,0.0,WEB
+W50016,2026-06-25,Omar Butt,Docking Station,3,128.27,0.0,Web
+W50365,2026-04-28,Emma Brown,Ergonomic Chair,1,255.37,0.1,Web
+W50364,2026-05-17,Zara Sheikh,Wireless Mouse,1,23.98,0.0,Web
+W50251,"Feb 17, 2026",Fatima Davis, External SSD 1TB,4,98.07,0.0,Web
+W50331,2026-02-08,Maya Patel,Wireless Mouse,4,23.79,0.0,Website
+W50340,"Jun 09, 2026",Ayesha Brown,Smart LED Lamp,1,29.5,0.15,Website
+W50323,2026-04-05,Chloe Moore,27-inch monitor,5,214.21,0.15,Web
+W50286,2026-06-28,Fatima Raza,Smart LED Lamp ,2 pcs,30.44,0.15,WEB
+W50310,2026-02-15,Chloe Patel,LAPTOP STAND,2,34.74,0.0,WEB
+W50212,2026-03-24,Omar Davis,Laptop Stand,5,35.63,0.1,Web
+W50485,2026-02-26,Emma Hussain,Ergonomic Chair,4,246.12,0.1,Website
+W50246,2026-02-23,Hassan Butt,Laptop Stand,5,,0.15,web 
+W50367,2026-02-20,Sofia Khan,External SSD 1TB,1,96.9,0.05,Web
+W50380,2026-05-07,Ali Butt,DOCKING STATION,1,126.7,0.0,Web
+W50520,2026-06-07,Ali Raza,WEBCAM HD,1,58.28,0.05,WEB
+W50491,"May 11, 2026",Emma Iqbal, External SSD 1TB,1,98.31,0.1,WEB
+W50096,2026-01-18,Liam Walker,Mechanical Keyboard ,2,90.66,0.1,Web
+W50253,"Apr 06, 2026",Hannah Ahmed,wireless mouse,2,24.14,0.1,WEB
+W50153,2026-06-18,Ali Davis,Docking Station,1,131.81,0.0,Web
+W50037,2026-05-02,Daniel Brown,webcam hd,1,58.83,0.1,Web
+W50244,"Jun 08, 2026",Maya Khan,27-inch Monitor,1,218.27,0.05,Website
+W50381,"Jan 17, 2026",Sofia Davis,Webcam HD ,1,58.92,0.15,WEB
+W50515,2026-04-22,Ali Patel,Bluetooth Speaker ,4,80.43,0.0,Web
+W50233,2026-05-19,Ali Patel,Docking Station ,2,128.11,0.05,Web
+W50510,2026-01-20,Liam Sheikh,Webcam HD,4,58.52,0.0,WEB
+W50239,2026-02-27,Omar Miller,Noise-Cancelling Headphones,1,148.88,0.0,Web
+W50176,2026-04-06,Daniel Ahmed,usb-c cable,1,13.09,0.1,Web
+W50386,"Jun 06, 2026",Omar Khan,USB-C Cable,4 pcs,13.36,0.05,web 
+W50083,2026-02-14,Bilal Butt,External SSD 1TB ,4,96.98,0.0,Website
+W50508,2026-05-23,Liam Patel,Smart LED Lamp,1,29.68,0.15,Web
+W50123,"Jan 10, 2026",Omar Butt, Bluetooth Speaker,4,77.66,0.0,Web
+W50291,2026-01-14,Hannah Patel,External SSD 1TB,4,99.76,0.0,web 
+W50388,2026-06-22,Emma Patel,Mechanical Keyboard,2,90.42,0.1,Web
+W50166,2026-02-06,Chloe Patel,Noise-Cancelling Headphones,5,144.86,0.0,web 
+W50465,2026-03-22,Usman Iqbal,Laptop Stand,5,35.85,0.0,Web
+W50343,2026-03-22,Ethan Butt,SMART LED LAMP,5,30.75,0.0,Web
+W50322,"May 11, 2026",Ethan Walker,Docking Station,1,129.41,0.0,web 
+W50504,2026-06-17,Sofia Iqbal,Smart LED Lamp ,1,29.43,0.15,web 
+W50468,2026-04-06,Noah Davis,Smart LED Lamp,1,30.15,0.1,Web
+W50162,2026-01-25,Ethan Ahmed,Smart LED Lamp ,1,29.95,0.15,WEB
+W50031,2026-01-14,Ali Butt,USB-C Cable,4,12.73,0.15,web 
+W50164,2026-06-25,Ali Malik, Noise-Cancelling Headphones,3,150.49,0.1,web 
+W50104,"Jun 04, 2026",Ayesha Clarke,Webcam HD,3,58.55,0.0,WEB
+W50210,"May 19, 2026",  ,EXTERNAL SSD 1TB,3,101.31,0.0,Website
+W50357,2026-01-29,Maya Patel,external ssd 1tb,3,100.88,0.0,Website
+W50492,2026-01-06,,Smart LED Lamp ,1,29.55,0.1,Web
+W50399,2026-03-21,Usman Ahmed,wireless mouse,5,23.84,0.15,web 
+W50496,2026-06-25,Zara Iqbal, External SSD 1TB,4,99.27,0.05,Web
+W50120,2026-03-23,Noah Raza,mechanical keyboard,4,87.81,0.0,WEB
+W50473,2026-03-14,Daniel Taylor,Webcam HD,1,60.55,0.05,Web
+W50034,2026-03-21,Chloe Ahmed,Mechanical Keyboard,5,88.53,0.1,web 
+W50080,2026-04-13,Noah Raza,Webcam HD,2,58.41,0.0,web 
+W50325,"Jun 16, 2026",Maya Clarke, USB-C Cable,1,13.07,0.0,WEB
+W50062,"Apr 25, 2026",Hassan Moore,Ergonomic Chair,5,245.25,0.1,Web
+W50187,2026-05-31,Ali Brown,USB-C Cable,3,12.84,0.05,Web
+W50019,2026-01-29,Hannah Iqbal,Noise-Cancelling Headphones,2,153.17,0.05,Web
+W50287,2026-02-06,Usman Taylor,27 inch Monitor,5,214.63,0.0,Website
+W50241,2026-04-30,Liam Walker,Mechanical Keyboard,5,91.38,0.0,Web
+W50199,2026-03-16,Ayesha Clarke,USB C Cable,3,13.15,0.15,WEB
+W50119,"Apr 22, 2026",Fatima Ahmed,ergonomic chair,1,247.68,0.1,Website
+W50513,2026-01-22,Olivia Raza,Docking Station,1,125.59,0.0,Website
+W50415,2026-06-22,Ali Brown,Wireless Mouse ,2,24.33,0.0,web 
+W50487,2026-03-11,Bilal Miller,wireless mouse,2,25.05,0.15,web 
+W50420,2026-01-07,Omar Rossi,USB-C CABLE,1,13.2,0.0,Web
+W50029,"Jun 28, 2026",Ayesha Rossi,Noise-Cancelling Headphones,4,145.52,0.15,Website
+W50426,2026-03-09,Bilal Miller,Ergonomic Chair,5,248.96,0.1,web 
+W50259,2026-05-13,Daniel Patel,Docking Station,4,132.24,0.0,Web
+W50430,2026-01-05,Usman Rossi,Bluetooth Speaker,3,77.96,0.0,Web
+W50349,2026-05-19,Hassan Iqbal,external ssd 1tb,2,100.94,0.0,Web
+W50122,2026-06-15,Chloe Iqbal,Bluetooth Speaker ,1,76.71,0.0,Web
+W50258,2026-04-20,Zara Rossi,Mechanical Keyboard,5,88.99,0.0,web 
+W50225,"Mar 25, 2026",Emma Taylor,LAPTOP STAND,2,35.86,0.1,web 
+W50182,2026-04-29,Emma Patel,Bluetooth Speaker,0,79.89,0.0,web 
+W50109,2026-02-26,Zara Hussain,27-inch Monitor,2,214.18,0.0,Website
+W50495,2026-03-07,Ayesha Raza,27-inch Monitor,3,217.18,0.0,WEB
+W50302,2026-04-23,Liam Moore,Wireless Mouse,3,25.19,0.15,web 
+W50428,"Jan 20, 2026",Sofia Walker, Bluetooth Speaker,5,78.73,0.0,Website
+W50089,2026-05-24,Zara Davis, External SSD 1TB,1,99.7,0.15,Web
+W50207,2026-02-28,  ,Laptop Stand,2,34.15,0.0,WEB
+W50240,2026-04-14,Zara Sheikh,Ergonomic Chair ,5,256.24,0.0,web 
+W50490,"Jun 28, 2026",Bilal Clarke,Wireless Mouse,2,24.2,0.0,web 
+W50110,2026-01-12,Noah Ahmed, Noise-Cancelling Headphones,2,148.46,0.0,Web
+W50148,2026-06-19,Ethan Taylor,Bluetooth Speaker,1,77.12,0.0,Web
+W50484,2026-02-06,Bilal Butt,DOCKING STATION,3,127.11,0.0,web 
+W50371,2026-03-09,Noah Brown,Noise-Cancelling Headphones,1,153.3,0.0,Web
+W50462,"Jan 09, 2026",Noah Rossi,Bluetooth Speaker,5,80.68,0.0,Web
+W50028,"Feb 23, 2026",Omar Hussain,Wireless Mouse,3,24.76,0.05,Web
+W50308,2026-03-27,Liam Wilson,Ergonomic Chair,2,247.56,0.05,Web
+W50425,"May 06, 2026",Ali Raza,Wireless Mouse ,2,24.83,0.05,Website
+W50220,2026-03-19,Olivia Rossi, Bluetooth Speaker,1,78.76,0.1,WEB
+W50117,2026-02-05,Usman Butt,laptop stand,1,35.41,0.0,web 
+W50418,2026-03-03,Liam Clarke,27 inch Monitor,4,213.44,0.0,Web
+W50116,2026-02-25,Maya Raza,external ssd 1tb,1,101.21,0.0,Web
+W50389,2026-01-06,Ethan Patel,Bluetooth Speaker,3,76.72,0.0,Web
+W50466,2026-01-30,Zara Clarke,Laptop Stand ,1,35.06,0.0,Web
+W50033,2026-02-10,  ,Mechanical Keyboard,1,89.47,0.0,web 
+W50074,2026-04-12,Zara Khan,DOCKING STATION,4,128.15,0.05,web 
+W50100,"Apr 25, 2026",Usman Walker,Bluetooth Speaker,1,,0.0,Web
+W50155,2026-01-06,Ethan Taylor,Noise-Cancelling Headphones,3,147.2,0.0,Web
+W50173,2026-06-11,Olivia Khan,bluetooth speaker,1,81.18,0.0,Website
+W50010,2026-04-29,Bilal Rossi,27-INCH MONITOR,2,216.94,0.1,Web
+W50442,2026-03-02,Chloe Davis,ergonomic chair,1,255.78,0.1,web 
+W50295,"Jan 10, 2026",Noah Khan,Webcam HD,1,60.32,0.15,WEB
+W50439,2026-01-21,Bilal Sheikh, Bluetooth Speaker,2,80.67,0.05,Web
+W50227,"Jan 07, 2026",Zara Butt,noise-cancelling headphones,5,147.88,0.0,WEB
+W50228,"Jan 06, 2026",Emma Raza, Noise-Cancelling Headphones,2,150.77,0.15,WEB
+W50208,2026-06-12,Chloe Patel,Bluetooth Speaker,1,81.0,0.0,Website
+W50486,2026-02-11,Liam Davis,27-inch monitor,5,217.21,0.05,WEB
+W50196,2026-06-07,Daniel Patel,EXTERNAL SSD 1TB,2,99.26,0.1,Website
+W50463,2026-04-22,Emma Wilson,SMART LED LAMP,4,29.42,0.1,WEB
+W50209,2026-06-24,Olivia Clarke,Ergonomic Chair,5,245.65,0.0,Web
+W50006,2026-03-13,Emma Patel,Smart LED Lamp,4,30.32,0.15,Website
+W50304,2026-06-13,Chloe Patel,mechanical keyboard,1,88.72,0.0,Web
+W50396,"Feb 20, 2026",Ethan Moore,Bluetooth Speaker,1,80.27,0.0,WEB
+W50410,2026-01-21,Bilal Taylor,27-inch Monitor ,2,223.37,0.05,web 
+W50395,2026-04-11,Daniel Sheikh,Webcam HD,4,59.59,0.1,Web
+W50130,2026-02-23,Hassan Miller,27-INCH MONITOR,3,222.38,0.05,web 
+W50051,2026-02-06,Sofia Iqbal, Mechanical Keyboard,4,87.01,0.15,Web
+W50159,"Jun 02, 2026",Noah Raza,Laptop Stand,5,34.48,0.1,web 
+W50276,2026-03-06,Zara Khan,Smart LED Lamp,4,30.75,0.0,WEB
+W50269,"May 20, 2026",Chloe Ahmed,27-inch Monitor,5,222.6,0.15,WEB
+W50403,2026-01-16,Ethan Malik,Bluetooth Speaker,2,78.91,0.1,Website
+W50143,"Apr 08, 2026",Fatima Patel,27-inch Monitor ,5,220.92,0.05,Web
+W50393,2026-01-01,Chloe Raza,External SSD 1TB,1,101.89,0.15,Web
+W50250,"Jun 26, 2026",Hannah Taylor,Smart LED Lamp,2,29.6,0.05,Web
+W50181,"Mar 07, 2026",Zara Hussain,Webcam HD,4 pcs,59.98,0.05,web 
+W50205,2026-04-08,Hannah Davis,Mechanical Keyboard,1,89.43,0.0,Web
+W50103,"May 17, 2026",Noah Walker,Bluetooth Speaker,2,78.12,0.15,web 
+W50290,2026-06-17,Zara Khan,USB C Cable,5,13.05,0.05,Web
+W50042,"Feb 10, 2026",Daniel Davis,smart led lamp,1,29.69,0.0,WEB
+W50429,2026-05-09,Zara Moore,Bluetooth Speaker,3,78.47,0.0,Web
+W50345,2026-03-26,Ayesha Iqbal,Docking Station,1,125.2,0.05,WEB
+W50177,2026-05-05,Usman Clarke,Ergonomic Chair,4,243.84,0.1,Website
+W50194,2026-03-19,Daniel Raza,Bluetooth Speaker,2,79.8,0.0,web 
+W50076,2026-02-18,Fatima Khan,external ssd 1tb,2,97.78,0.0,Web
+W50509,2026-03-16,Bilal Butt,27-inch Monitor,1,213.12,0.05,web 
+W50516,"May 12, 2026",Fatima Clarke,USB-C Cable,3,12.75,0.0,Web
+W50070,2026-02-03,Maya Raza,USB-C CABLE,5,12.83,0.0,WEB
+W50184,2026-02-18,Maya Taylor,Webcam HD,5,60.04,0.15,Web
+W50284,2026-01-05,Sofia Patel,Mechanical Keyboard ,2,88.0,0.0,Web
+W50456,2026-05-02,Noah Iqbal,Smart LED Lamp,1,29.48,0.15,Web
+W50397,2026-02-22,Emma Brown,Noise-Cancelling Headphones,2,144.9,0.0,WEB
+W50011,"Feb 04, 2026",Omar Walker,Mechanical Keyboard,2,88.13,0.0,Web
+W50432,2026-02-27,Olivia Patel,Webcam HD,4,57.69,0.1,Web
+W50243,2026-03-12,Usman Brown,Smart LED Lamp ,1,30.09,0.05,WEB
+W50044,2026-03-08,Emma Rossi,NOISE-CANCELLING HEADPHONES,2,152.6,0.0,Web
+W50458,2026-05-27,Zara Malik,Laptop Stand,1,34.14,0.0,Web
+W50351,2026-03-03,Noah Brown,27-inch monitor,2,216.91,0.05,Website
+W50280,2026-05-30,Daniel Wilson, Bluetooth Speaker,1,78.97,0.05,Web
+W50344,2026-04-22,Hannah Taylor,Webcam HD,1,59.22,0.15,web 
+W50409,2026-01-05,Chloe Davis, Mechanical Keyboard,5,89.87,0.15,web 
+W50438,2026-03-07,Sofia Ahmed, Ergonomic Chair,1,246.86,0.0,Web
+W50203,2026-01-05,Chloe Hussain,Webcam HD,5,57.42,0.0,web 
+W50249,"Feb 25, 2026",Maya Iqbal,Bluetooth Speaker,1,79.93,0.0,web 
+W50318,2026-06-17,Hassan Butt, Noise-Cancelling Headphones,2,150.87,0.15,Website
+W50292,2026-03-03,Usman Moore,Noise Cancelling Headphones,3,149.15,0.0,Web
+W50412,2026-05-19,Fatima Wilson,External SSD 1TB,1,N/A,0.0,web 
+W50025,2026-01-26,Fatima Khan, Laptop Stand,2,34.04,0.05,WEB
+W50506,2026-03-23,Usman Moore,USB-C CABLE,1,12.7,0.0,WEB
+W50149,"Mar 19, 2026",Chloe Khan,Noise Cancelling Headphones,4,147.79,0.05,WEB
+W50091,2026-03-28,Liam Raza,wireless mouse,1,25.17,0.0,Web
+W50088,2026-02-23,Noah Wilson,Docking Station,3,131.69,0.1,web 
+W50488,2026-01-28,Sofia Ahmed,Laptop Stand ,5,34.25,0.0,Website
+W50267,2026-02-25,Maya Iqbal,Laptop Stand,1,35.9,0.0,web 
+W50217,2026-04-22,,External SSD 1TB,3,100.18,0.0,Website
+W50111,2026-05-11,Hassan Moore,Bluetooth Speaker,5,76.76,0.15,Website
+W50094,2026-04-06,Daniel Khan,Mechanical Keyboard ,4,87.5,0.0,WEB
+W50068,2026-06-05,Chloe Davis,NOISE-CANCELLING HEADPHONES,2,147.57,0.05,web 
+W50502,2026-02-24,Olivia Raza, Smart LED Lamp,2,30.19,0.1,WEB
+W50413,2026-03-18,Sofia Ahmed,External SSD 1TB,1,98.67,0.0,Web
+W50135,2026-01-04,Zara Iqbal,USB-C Cable,1,13.26,0.05,web 
+W50480,2026-04-02,Ayesha Ahmed, External SSD 1TB,1,101.59,0.1,Web
+W50169,2026-06-21,Liam Walker,Docking Station,1,126.33,0.1,Website
+W50235,2026-03-30,Ethan Rossi,USB-C Cable,2,12.78,0.0,web 
+W50133,2026-02-24,Daniel Butt,NOISE-CANCELLING HEADPHONES,2,148.65,0.1,Web
+W50190,2026-05-06,Bilal Sheikh,noise-cancelling headphones,1,149.77,0.1,Web
+W50342,2026-05-28,Olivia Iqbal, Ergonomic Chair,2,241.6,0.0,Web
+W50499,"Mar 28, 2026",Zara Moore,Ergonomic Chair,2,243.09,0.0,Web
+W50329,2026-03-24,Usman Brown,DOCKING STATION,4,127.99,0.0,web 
+W50446,2026-04-10,Zara Taylor,27-INCH MONITOR,1,215.8,0.15,web 
+W50406,2026-01-06,Liam Iqbal,MECHANICAL KEYBOARD,1,86.36,0.0,WEB
+W50299,2026-02-25,Sofia Taylor,ERGONOMIC CHAIR,5,253.31,0.1,web 
+W50440,2026-01-13,Liam Malik,Mechanical Keyboard,5,90.94,0.0,Website
+W50346,"Apr 12, 2026",Hassan Khan, Ergonomic Chair,5,242.21,0.0,Web
+W50161,2026-04-03,Zara Malik,Mechanical Keyboard,4,88.8,0.15,Web
+W50394,2026-01-03,Sofia Walker,smart led lamp,2,29.5,0.0,Web
+W50377,"May 01, 2026",Olivia Clarke,Bluetooth Speaker ,4,78.98,0.05,Website
+W50137,"Jun 18, 2026",Ethan Khan,USB-C Cable ,4,12.94,0.0,Web
+W50414,2026-05-25,Olivia Hussain,27-inch Monitor,2,215.85,0.1,web 
+W50077,2026-03-03,Noah Iqbal,Ergonomic Chair,3,243.34,0.1,Website
+W50481,2026-01-27,Maya Walker,Bluetooth Speaker,3 pcs,80.96,0.05,Website
+W50376,"Jun 21, 2026",Hassan Clarke,27-inch Monitor ,1,220.47,0.05,WEB
+W50126,2026-01-16,Daniel Malik,Wireless Mouse,2,24.07,0.0,web 
+W50026,2026-03-13,Maya Khan,Wireless Mouse,4,24.28,0.15,WEB
+W50309,2026-02-09,Hassan Miller, Noise-Cancelling Headphones,4,151.92,0.15,Web
+W50382,2026-06-11,Emma Khan,Bluetooth Speaker ,4,76.97,0.0,web 
+W50082,2026-04-30,Ayesha Miller,bluetooth speaker,4,78.82,0.1,WEB
+W50289,2026-03-27,Chloe Moore,Ergonomic Chair ,1,255.29,0.15,Website
+W50350,"Feb 01, 2026",Chloe Sheikh, Noise-Cancelling Headphones,1,149.38,0.15,WEB
+W50359,2026-01-01,Hassan Malik,Wireless Mouse,4,24.55,0.0,Website
+W50392,2026-05-13,Noah Wilson,Smart LED Lamp,2,29.31,0.0,Web
+W50391,"Jan 31, 2026",Zara Khan, Wireless Mouse,4,23.9,0.1,WEB
+W50078,2026-05-13,Sofia Moore,Webcam HD,5,57.66,0.0,Web
+W50443,2026-03-06,Liam Brown,USB-C Cable,1,13.08,0.1,Web
+W50213,2026-04-24,Omar Rossi,Mechanical Keyboard,3,88.48,0.0,Web
+W50238,2026-03-19,Hassan Rossi, Ergonomic Chair,1,249.8,0.15,Website
+W50366,2026-05-13,Maya Iqbal,LAPTOP STAND,2,34.8,0.1,Web
+W50297,2026-03-07,Bilal Taylor,Bluetooth Speaker,4,77.18,0.0,Web
+W50387,2026-04-23,Hassan Khan,Ergonomic Chair ,5,243.64,0.0,Web
+W50216,"Apr 26, 2026",Omar Khan, Smart LED Lamp,4,29.7,0.0,Web
+W50163,2026-06-25,Ali Miller, Docking Station,2,132.55,0.05,Website
+W50219,2026-04-22,Maya Taylor,27-inch Monitor,2,214.9,0.15,Web
+W50307,2026-02-24,Liam Malik,BLUETOOTH SPEAKER,5,77.25,0.0,Website
+W50447,2026-02-05,Noah Moore,wireless mouse,2,25.07,0.05,Web
+W50050,2026-05-07,,Smart LED Lamp,1,30.77,0.05,Web
+W50431,"Mar 24, 2026",Ali Iqbal,webcam hd,1,57.76,0.0,web 
+W50472,2026-06-15,Bilal Iqbal,smart led lamp,4,29.93,0.1,Website
+W50271,2026-06-14,Maya Sheikh,Ergonomic Chair,1,247.66,0.1,web 
+W50063,2026-04-07,Usman Davis,DOCKING STATION,2,128.24,0.15,web 
+W50493,2026-06-17,Hassan Walker,Wireless Mouse,5,25.02,0.0,Website
+W50301,2026-02-01,Noah Taylor,ERGONOMIC CHAIR,3,244.78,0.0,Website
+W50354,2026-01-11,Omar Taylor,NOISE-CANCELLING HEADPHONES,3,146.19,0.1,Web
+W50503,2026-05-20,Maya Malik, Webcam HD,1,60.02,0.1,Web
+W50013,2026-06-06,Ethan Rossi,Mechanical Keyboard,4,89.18,0.05,Web
+W50362,2026-04-17,Ayesha Davis, Webcam HD,2,57.29,0.0,Web
+W50494,2026-01-30,Liam Hussain,Bluetooth Speaker,2,80.58,0.1,Website
+W50316,2026-05-16,Sofia Raza,LAPTOP STAND,2,34.45,0.1,web 
+W50179,2026-06-19,Maya Raza,External SSD 1TB,2,100.86,0.1,WEB
+W50075,2026-04-06,Omar Patel,USB-C CABLE,3,12.7,0.0,web 
+W50090,2026-01-30,Hassan Butt,WEBCAM HD,3,57.72,0.15,Web
+W50132,"Apr 23, 2026",Ali Moore,docking station,5,127.25,0.05,web 
+W50469,"Jan 07, 2026",,usb-c cable,5 pcs,12.81,0.0,Website
+W50408,2026-03-25,Hannah Raza,27-inch Monitor,2,217.16,0.0,WEB
+W50237,2026-06-20,Fatima Rossi,Mechanical Keyboard,4,87.15,0.1,web 
+W50471,"Jan 30, 2026",Fatima Moore,Wireless Mouse,2,25.03,0.0,web 
+W50093,2026-04-14,Zara Brown,Webcam HD ,1,60.03,0.05,WEB
+W50049,2026-01-26,Olivia Moore,SMART LED LAMP,5,29.55,0.0,WEB
+W50055,"May 20, 2026",Ali Brown,Wireless Mouse,1,24.73,0.0,web 
+W50171,"May 22, 2026",Noah Patel, Ergonomic Chair,2,246.05,0.0,Web
+W50401,2026-02-28,Ali Wilson,Docking Station,2,,0.0,web 
+W50174,2026-03-06,Noah Khan,noise-cancelling headphones,1,148.66,0.05,web 
+W50378,2026-05-21,, Laptop Stand,1,34.63,0.0,WEB
+W50214,2026-02-23,Sofia Khan,Mechanical Keyboard ,1,91.18,0.05,Website
+W50189,2026-02-21,Noah Patel,Noise-Cancelling Headphones ,1,144.77,0.0,WEB
+W50038,2026-01-10,Liam Malik,27-inch monitor,1,215.84,0.0,Website
+W50172,2026-04-12,,27-INCH MONITOR,2,217.42,0.0,WEB
+W50007,2026-01-31,Daniel Clarke,Bluetooth Speaker,2,76.88,0.1,web 
+W50061,"Jun 20, 2026",Liam Miller,NOISE-CANCELLING HEADPHONES,2,147.0,0.15,WEB
+W50156,2026-06-14,Chloe Rossi,Smart LED Lamp ,1,30.53,0.05,Web
+W50306,2026-03-07,Zara Taylor,Laptop Stand,1,34.56,0.15,Website
+W50260,2026-02-16,Bilal Iqbal, Docking Station,3,132.19,0.0,Website
+W50285,2026-04-18,Liam Miller,usb-c cable,1,13.32,0.05,WEB
+W50192,2026-05-19,Chloe Wilson,Bluetooth Speaker,1,78.96,0.05,Website
+W50417,"Jun 19, 2026",Hannah Moore,Smart LED Lamp,2,29.98,0.0,WEB
+W50283,2026-05-26,Omar Moore,webcam hd,1,60.73,0.0,Web
+W50057,2026-01-11,Hassan Rossi,Mechanical Keyboard,2,91.65,0.0,web 
+W50056,"Jan 30, 2026",Omar Wilson,Ergonomic Chair,1,251.56,0.0,WEB
+W50402,2026-03-28,Emma Walker,Smart LED Lamp,5,29.57,0.1,Web
+W50134,2026-05-23,Chloe Ahmed,27-INCH MONITOR,1,221.43,0.05,Web
+W50500,2026-01-20,Usman Moore,Laptop Stand,1,35.95,0.0,WEB
+W50138,2026-06-02,Noah Patel,docking station,1,126.12,0.15,Web
+W50045,2026-02-27,Olivia Ahmed,Ergonomic Chair,2,247.62,0.1,Website
+W50413,2026-03-18,Sofia Ahmed,EXTERNAL SSD 1TB,1,98.67,0.0,WEB
+W50200,"Mar 04, 2026",Ayesha Walker,USB-C Cable ,2,12.79,0.05,Website
+W50519,2026-06-12,Maya Davis,Noise-Cancelling Headphones,2,148.61,0.1,WEB
+W50356,2026-01-29,Maya Khan,External SSD 1TB,3,101.47,0.05,Web
+W50466,2026-01-30,Zara Clarke,laptop stand,1,35.06,0.0,WEB
+W50266,2026-06-11,Omar Moore,MECHANICAL KEYBOARD,1,90.93,0.0,web 
+W50079,"Mar 21, 2026",Ali Sheikh, Bluetooth Speaker,1,80.91,0.0,web 
+W50146,"Apr 03, 2026",Hannah Moore,Laptop Stand,1,34.83,0.0,Web
+W50326,2026-03-19,Ethan Ahmed,Mechanical Keyboard,1,90.57,0.05,WEB
+W50202,2026-03-30,Hannah Taylor,Noise Cancelling Headphones,1,152.08,0.0,Web
+W50330,2026-03-26,Emma Ahmed, Docking Station,1,129.52,0.1,web 
+W50407,2026-04-08,Fatima Iqbal,Webcam HD,1,60.11,0.15,Web
+W50084,2026-04-23,Sofia Davis,Laptop Stand,5,35.77,0.15,web 
+W50433,"May 30, 2026",Chloe Miller,Bluetooth Speaker,2,78.22,0.0,web 

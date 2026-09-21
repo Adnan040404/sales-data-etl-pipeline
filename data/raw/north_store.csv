@@ -1,0 +1,433 @@
+Order ID,Order Date,Customer Name,Product,Qty,Unit Price,Discount %,Channel
+N-1178,12/02/2026,Noah Rossi,laptop stand,3,,0%,in store
+N-1180,01/06/2026,Zara Moore, 27-inch Monitor,2,$216.62,0%,in store
+N-1179,24/03/2026,Zara Taylor,Mechanical Keyboard,1,$87.69,5%,In-Store
+N-1060,07/05/2026,Maya Rossi,External SSD 1TB,2,$96.37,15%,In-Store
+N-1165,18/01/2026,Omar Wilson,Mechanical Keyboard,5,$90.35,0%,in store
+N-1235,06/01/2026,Ali Moore,BLUETOOTH SPEAKER,1,$80.87,0%,In-Store
+N-1250,25/05/2026,Maya Clarke,Wireless Mouse,3,$24.70,0%,In-Store
+N-1052,19/01/2026,Noah Raza,Webcam HD,1,$57.98,0%,In-Store
+N-1096,26/04/2026,Olivia Davis,Smart LED Lamp,1,$29.84,5%,IN-STORE 
+N-1146,08/06/2026,Noah Butt,BLUETOOTH SPEAKER,1,$80.33,0%,In-Store
+N-1343,27/04/2026,Daniel Miller,noise-cancelling headphones,1,$152.27,10%,In-Store
+N-1186,13/05/2026,Zara Davis,Laptop Stand,3,$35.48,15%,in store
+N-1333,19/02/2026,Zara Khan,Ergonomic Chair,5,$249.34,15%,in store
+N-1074,24/03/2026,Noah Miller,Docking Station,2,$126.82,0%,in store
+N-1344,23/06/2026,Zara Butt, Laptop Stand,1,$35.24,0%,In-Store
+N-1161,14/04/2026,Fatima Khan,Ergonomic Chair,4,$255.00,5%,in store
+N-1088,27/06/2026,Ethan Clarke,ERGONOMIC CHAIR,1,$248.74,5%,in store
+N-1209,29/01/2026,Daniel Miller, 27-inch Monitor,1,$223.27,15%,In-Store
+N-1072,10/05/2026,Ethan Brown,Noise-Cancelling Headphones,2,$144.93,0%,In-Store
+N-1137,19/02/2026,Sofia Patel,Laptop Stand,3,$34.51,10%,in store
+N-1139,17/01/2026,Ayesha Brown,Smart LED Lamp ,1,$29.95,5%,In-Store
+N-1198,30/04/2026,Sofia Taylor,ergonomic chair,1,$244.91,0%,In-Store
+N-1135,24/03/2026,Hassan Iqbal,27-inch monitor,1,$220.73,0%,IN-STORE 
+N-1223,09/02/2026,Emma Butt, Docking Station,3,$126.44,5%,In-Store
+N-1082,27/01/2026,Olivia Taylor,Webcam HD,1,$59.45,15%,in store
+N-1133,01/02/2026,,Noise-Cancelling Headphones,4,$147.72,0%,In-Store
+N-1319,17/03/2026,Hannah Khan,Ergonomic Chair,5,$253.59,0%,IN-STORE 
+N-1409,30/03/2026,Sofia Raza, 27-inch Monitor,4,$225.55,10%,In-Store
+N-1018,17/04/2026,Hassan Wilson,ERGONOMIC CHAIR,2,$243.78,0%,In-Store
+N-1334,27/01/2026,Hassan Ahmed,Bluetooth Speaker,1,$76.84,0%,IN-STORE 
+N-1147,13/03/2026,Zara Sheikh,Laptop Stand,2,$35.49,0%,In-Store
+N-1024,03/06/2026,Daniel Ahmed,Webcam HD,1,$59.24,10%,IN-STORE 
+N-1150,01/03/2026,Omar Taylor,Docking Station,1,$125.92,5%,In-Store
+N-1149,25/03/2026,Sofia Wilson,27-inch Monitor ,2,$225.47,10%,In-Store
+N-1400,23/01/2026,Noah Davis,Laptop Stand,1,$35.66,5%,IN-STORE 
+N-1374,28/01/2026,Hassan Miller,External SSD 1TB,4,$96.09,0%,In-Store
+N-1330,28/01/2026,Bilal Taylor,Laptop Stand ,1,$35.05,10%,IN-STORE 
+N-1154,31/03/2026,Fatima Miller,External SSD 1TB,3,$98.05,0%,In-Store
+N-1397,18/06/2026,Hannah Davis,usb-c cable,1,$12.90,0%,In-Store
+N-1392,24/04/2026,Emma Brown,DOCKING STATION,1,$127.98,0%,in store
+N-1039,08/02/2026,Emma Clarke,USB C Cable,5,$13.11,0%,IN-STORE 
+N-1092,26/04/2026,Zara Wilson,docking station,2,$132.22,0%,in store
+N-1383,14/01/2026,Noah Brown,Bluetooth Speaker,2,$76.84,10%,In-Store
+N-1010,15/03/2026,Sofia Ahmed,bluetooth speaker,4,$77.41,0%,IN-STORE 
+N-1357,05/02/2026,Fatima Hussain,webcam hd,1,$59.85,15%,IN-STORE 
+N-1280,28/04/2026,Zara Miller,Bluetooth Speaker,1,$76.68,0%,In-Store
+N-1177,04/02/2026,Ayesha Rossi,Smart LED Lamp ,1,$29.44,5%,In-Store
+N-1240,12/05/2026,Omar Sheikh,noise-cancelling headphones,1,$146.79,5%,In-Store
+N-1407,21/06/2026,Hassan Khan, Noise-Cancelling Headphones,1,$151.99,15%,In-Store
+N-1112,25/06/2026,Chloe Moore,Mechanical Keyboard,2,$86.82,0%,In-Store
+N-1093,29/05/2026,Sofia Clarke,Wireless Mouse,2,$25.17,0%,in store
+N-1063,28/03/2026,Usman Raza,USB C Cable,2,$13.08,0%,IN-STORE 
+N-1192,07/02/2026,Zara Wilson,Smart LED Lamp,2,$30.83,0%,In-Store
+N-1285,26/05/2026,Maya Davis,Laptop Stand,2,$34.07,15%,in store
+N-1017,21/05/2026,Zara Clarke,Noise-Cancelling Headphones,4,$152.25,0%,In-Store
+N-1064,03/03/2026,Omar Walker,DOCKING STATION,2,$125.52,0%,in store
+N-1321,15/04/2026,Fatima Hussain,USB-C Cable,1,$12.71,0%,In-Store
+N-1415,24/01/2026,Fatima Davis,Noise Cancelling Headphones,1,$145.75,15%,IN-STORE 
+N-1399,24/05/2026,Hassan Moore,WIRELESS MOUSE,2,$24.05,15%,In-Store
+N-1217,01/06/2026,Hassan Moore,Bluetooth Speaker,2,$79.37,0%,In-Store
+N-1188,03/02/2026,Bilal Brown,USB C Cable,1,$12.62,0%,In-Store
+N-1119,19/02/2026,Olivia Hussain,external ssd 1tb,2,$100.73,0%,IN-STORE 
+N-1308,10/04/2026,Omar Sheikh,Laptop Stand,5,$34.74,5%,in store
+N-1212,14/03/2026,Daniel Sheikh,Laptop Stand,3,$35.56,10%,IN-STORE 
+N-1264,16/03/2026,Ethan Sheikh, USB-C Cable,5,$12.91,10%,In-Store
+N-1168,16/02/2026,Fatima Miller, Bluetooth Speaker,4,$81.08,0%,In-Store
+N-1121,02/05/2026,Chloe Brown,27-inch monitor,2,$212.81,5%,In-Store
+N-1335,07/05/2026,Chloe Hussain,Bluetooth Speaker,1,$77.21,5%,In-Store
+N-1034,31/03/2026,Hassan Rossi,Bluetooth Speaker,2,$77.11,5%,In-Store
+N-1366,18/05/2026,Ethan Butt,Laptop Stand,4,$35.03,10%,in store
+N-1229,13/03/2026,Fatima Wilson,Wireless Mouse,5,$23.81,5%,In-Store
+N-1275,01/06/2026,Hannah Iqbal,external ssd 1tb,4,$99.29,0%,in store
+N-1089,22/06/2026,Omar Malik, Laptop Stand,5,$34.55,10%,In-Store
+N-1228,19/03/2026,Ethan Raza,Mechanical Keyboard,2,$87.38,15%,IN-STORE 
+N-1067,05/01/2026,Chloe Butt,USB-C Cable,2,$13.00,0%,In-Store
+N-1107,21/05/2026,Noah Taylor,Bluetooth Speaker,3,$81.35,5%,in store
+N-1109,24/01/2026,Maya Brown,Docking Station,3,$127.13,10%,In-Store
+N-1395,05/04/2026,Usman Brown,External SSD 1TB,4,$99.64,0%,IN-STORE 
+N-1189,01/04/2026,Ethan Ahmed, External SSD 1TB,3,$99.20,5%,IN-STORE 
+N-1365,03/01/2026,Ayesha Miller,noise-cancelling headphones,2,$149.58,5%,In-Store
+N-1222,28/04/2026,Hannah Butt,27-inch monitor,1,$217.01,0%,IN-STORE 
+N-1094,11/06/2026,Chloe Hussain,external ssd 1tb,1,$100.21,0%,in store
+N-1059,03/02/2026,Ali Hussain,Laptop Stand,4,$34.25,10%,in store
+N-1215,15/03/2026,Liam Raza,external ssd 1tb,1,$99.14,0%,in store
+N-1183,23/05/2026,Chloe Ahmed,Bluetooth Speaker,2,$81.34,15%,IN-STORE 
+N-1373,10/05/2026,Fatima Raza,27-inch Monitor,1,$213.22,10%,in store
+N-1204,02/01/2026,Ayesha Raza,Ergonomic Chair ,2,$250.05,0%,In-Store
+N-1113,13/04/2026,Emma Raza, Noise-Cancelling Headphones,2,$152.12,0%,In-Store
+N-1081,05/01/2026,Noah Rossi,external ssd 1tb,1,$96.28,15%,In-Store
+N-1151,25/04/2026,Hassan Miller,27-inch Monitor,2,$215.49,0%,in store
+N-1041,27/01/2026,Chloe Clarke,Smart LED Lamp,4,$30.87,0%,IN-STORE 
+N-1307,23/06/2026,Ethan Taylor,27-inch Monitor ,1,$218.62,0%,In-Store
+N-1267,22/05/2026,Olivia Butt,NOISE-CANCELLING HEADPHONES,1,$148.09,0%,In-Store
+N-1256,02/05/2026,Bilal Butt,Mechanical Keyboard,1,$88.92,0%,in store
+N-1243,15/05/2026,Noah Wilson,Noise-Cancelling Headphones ,5,$146.43,0%,In-Store
+N-1312,30/01/2026,Hassan Clarke,Bluetooth Speaker,3,$77.68,0%,In-Store
+N-1384,22/03/2026,Ayesha Taylor, Mechanical Keyboard,2,$88.56,0%,In-Store
+N-1031,19/05/2026,Chloe Patel,Docking Station,2,$129.88,0%,In-Store
+N-1218,24/02/2026,Noah Iqbal,Laptop Stand ,1,$34.17,15%,In-Store
+N-1340,25/03/2026,Chloe Clarke,USB-C Cable,3,$12.79,5%,IN-STORE 
+N-1138,09/03/2026,Maya Hussain,USB-C Cable ,2,$12.60,10%,in store
+N-1070,12/06/2026,Hannah Wilson,ergonomic chair,3,$256.20,0%,In-Store
+N-1378,01/02/2026,Hannah Walker,EXTERNAL SSD 1TB,1,$96.20,0%,IN-STORE 
+N-1044,28/04/2026,Chloe Raza,Webcam HD,1,$59.11,10%,In-Store
+N-1268,12/01/2026,Fatima Iqbal,USB-C Cable ,1,$13.22,10%,In-Store
+N-1318,25/01/2026,  ,27-inch Monitor,4,$224.21,0%,in store
+N-1347,22/01/2026,Emma Butt,Laptop Stand,1,$34.86,10%,in store
+N-1160,17/04/2026,,Webcam HD,3,$59.51,5%,In-Store
+N-1184,06/04/2026,Zara Wilson,Noise-Cancelling Headphones ,3,$149.69,0%,In-Store
+N-1262,02/02/2026,Maya Ahmed,Smart LED Lamp ,3,$29.70,10%,in store
+N-1036,14/06/2026,Sofia Ahmed,Webcam HD,4,$60.00,0%,IN-STORE 
+N-1348,17/03/2026,Ali Davis,mechanical keyboard,2,$87.63,0%,IN-STORE 
+N-1227,08/03/2026,Omar Walker, 27-inch Monitor,1,$215.00,0%,In-Store
+N-1366,18/05/2026,Ethan Butt,Laptop Stand ,4,$35.03,10%,In-Store
+N-1097,31/01/2026,Maya Khan,WEBCAM HD,3,$59.89,5%,IN-STORE 
+N-1367,25/06/2026,Ali Wilson,Ergonomic Chair,5,$246.87,10%,in store
+N-1253,14/04/2026,Usman Walker,27-inch monitor,1,$221.21,10%,IN-STORE 
+N-1128,02/06/2026,Hannah Wilson, USB-C Cable,1,$12.77,10%,in store
+N-1303,23/03/2026,Noah Rossi,Laptop Stand,4,$34.32,0%,In-Store
+N-1248,04/03/2026,Ethan Patel,Webcam HD,5,$58.95,10%,In-Store
+N-1298,30/03/2026,Zara Moore, USB-C Cable,1,$12.67,0%,In-Store
+N-1213,02/05/2026,Ethan Khan,Docking Station,4,$125.37,10%,IN-STORE 
+N-1122,16/06/2026,Ethan Miller, Ergonomic Chair,1,$244.43,15%,In-Store
+N-1126,19/02/2026,Noah Taylor,Laptop Stand,2,$34.50,0%,in store
+N-1252,06/02/2026,Noah Walker,external ssd 1tb,5,$98.09,0%,IN-STORE 
+N-1394,28/02/2026,Emma Clarke,27-inch Monitor,2,$220.26,5%,In-Store
+N-1013,02/05/2026,Sofia Miller,Laptop Stand ,2,$35.30,15%,IN-STORE 
+N-1219,06/05/2026,Usman Ahmed,Wireless Mouse,3,$24.29,5%,In-Store
+N-1379,14/05/2026,Bilal Taylor, Mechanical Keyboard,4,$90.64,0%,in store
+N-1142,02/06/2026,Sofia Moore,Webcam HD ,2,$58.62,0%,IN-STORE 
+N-1352,30/05/2026,Olivia Khan, Noise-Cancelling Headphones,3,$145.98,0%,In-Store
+N-1077,13/04/2026,Daniel Wilson,mechanical keyboard,1,$87.93,15%,In-Store
+N-1288,26/04/2026,Ethan Khan,27-INCH MONITOR,3,$215.89,5%,In-Store
+N-1192,07/02/2026,Zara Wilson,Smart LED Lamp,2,$30.83,0%,In-Store
+N-1336,19/05/2026,Noah Brown,Mechanical Keyboard ,1,$89.90,5%,IN-STORE 
+N-1114,09/01/2026,Ali Iqbal,Mechanical Keyboard,-1,$86.33,5%,IN-STORE 
+N-1163,14/01/2026,Usman Clarke,USB C Cable,4,$12.67,10%,in store
+N-1047,23/05/2026,Bilal Ahmed, Docking Station,1,$127.05,0%,in store
+N-1310,20/01/2026,Hassan Clarke,27-inch Monitor ,5,$225.02,5%,in store
+N-1111,11/03/2026,Maya Miller,Noise-Cancelling Headphones,5,$147.01,0%,IN-STORE 
+N-1283,01/05/2026,Liam Clarke,Bluetooth Speaker,1,$78.35,15%,In-Store
+N-1405,20/02/2026,Ethan Clarke,Noise-Cancelling Headphones ,4,$151.13,10%,in store
+N-1349,20/05/2026,Ethan Taylor,Ergonomic Chair,2,$251.25,0%,in store
+N-1006,24/05/2026,Liam Ahmed,laptop stand,2,$34.72,10%,In-Store
+N-1155,07/03/2026,Daniel Malik,27-inch monitor,1,$223.19,5%,in store
+N-1220,23/01/2026,Ali Khan,NOISE-CANCELLING HEADPHONES,3,$146.37,0%,in store
+N-1293,28/04/2026,Usman Rossi,Noise-Cancelling Headphones,3,$151.43,0%,In-Store
+N-1117,02/02/2026,Noah Miller,USB C Cable,2,$13.35,15%,In-Store
+N-1325,14/05/2026,Ali Miller,ergonomic chair,3,$246.54,15%,In-Store
+N-1313,26/04/2026,Usman Clarke,Mechanical Keyboard ,5,$90.98,0%,in store
+N-1345,14/05/2026,Ayesha Raza,Wireless Mouse,2,$25.16,0%,In-Store
+N-1030,08/03/2026,Chloe Sheikh,Ergonomic Chair,1,$246.84,0%,In-Store
+N-1297,28/01/2026,Hassan Taylor,Webcam HD,1,$57.78,10%,In-Store
+N-1257,06/05/2026,Noah Iqbal,Ergonomic Chair,1,$249.59,15%,In-Store
+N-1021,23/03/2026,Hannah Moore,external ssd 1tb,1,$98.74,15%,In-Store
+N-1193,24/05/2026,Hassan Taylor,SMART LED LAMP,5,$29.54,0%,In-Store
+N-1050,17/05/2026,Bilal Moore,Docking Station,2,$130.54,0%,In-Store
+N-1086,07/05/2026,Olivia Rossi,Bluetooth Speaker,5,$80.95,0%,In-Store
+N-1410,13/03/2026,Chloe Rossi,27-inch Monitor,3,$224.87,5%,In-Store
+N-1156,06/04/2026,Liam Davis,Smart LED Lamp,1,$29.46,5%,IN-STORE 
+N-1127,09/06/2026,Bilal Walker, Wireless Mouse,2,$24.48,15%,In-Store
+N-1038,29/04/2026,Olivia Rossi, Noise-Cancelling Headphones,1,$146.05,0%,in store
+N-1076,05/03/2026,Chloe Khan,27-INCH MONITOR,1,$215.90,0%,IN-STORE 
+N-1080,10/06/2026,Ali Moore,Docking Station,1,$132.17,10%,in store
+N-1078,22/01/2026,Chloe Clarke, 27-inch Monitor,4,$222.47,15%,In-Store
+N-1403,05/03/2026,Olivia Sheikh,Bluetooth Speaker,1,$77.49,0%,in store
+N-1095,05/05/2026,Olivia Khan,Bluetooth Speaker,1,$76.65,5%,in store
+N-1171,10/06/2026,Ethan Raza,Docking Station,2,$129.64,5%,In-Store
+N-1026,06/03/2026,  ,Smart LED Lamp,5,$29.31,5%,in store
+N-1062,05/06/2026,Noah Rossi,Wireless Mouse,2,$25.03,5%,in store
+N-1346,20/03/2026,Hassan Walker, Wireless Mouse,1,$23.85,10%,IN-STORE 
+N-1231,04/06/2026,Olivia Khan,Laptop Stand,2,$35.85,5%,In-Store
+N-1091,21/03/2026,Sofia Iqbal,27-inch Monitor,1,$216.24,0%,In-Store
+N-1134,23/01/2026,Daniel Iqbal,Noise-Cancelling Headphones ,2,$147.86,5%,IN-STORE 
+N-1251,03/01/2026,,SMART LED LAMP,2,$29.54,0%,In-Store
+N-1306,15/06/2026,Bilal Miller,ergonomic chair,1,$243.69,0%,in store
+N-1208,21/02/2026,Usman Rossi,Webcam HD,4,$57.61,0%,IN-STORE 
+N-1419,20/06/2026,Hannah Taylor,Smart LED Lamp,4,$30.59,0%,In-Store
+N-1375,26/06/2026,Usman Khan,Laptop Stand,2,$34.77,0%,In-Store
+N-1414,20/05/2026,  ,27 inch Monitor,1,$214.64,0%,IN-STORE 
+N-1185,21/01/2026,Emma Brown,webcam hd,1,$59.41,0%,In-Store
+N-1167,23/01/2026,Liam Brown,Noise Cancelling Headphones,4,$150.03,0%,IN-STORE 
+N-1232,27/05/2026,Ali Brown,Ergonomic Chair,2,$251.68,15%,In-Store
+N-1032,13/04/2026,Noah Malik,27-inch monitor,5,$217.10,0%,In-Store
+N-1190,19/03/2026,Hannah Malik,External SSD 1TB,3,$99.74,5%,IN-STORE 
+N-1272,08/03/2026,Ethan Walker,ergonomic chair,4,$242.04,0%,in store
+N-1130,29/01/2026,Sofia Walker,Webcam HD ,3,$57.91,15%,in store
+N-1230,27/06/2026,Noah Moore,Noise-Cancelling Headphones,2,$148.67,0%,In-Store
+N-1399,24/05/2026,Hassan Moore,wireless mouse,2,$24.05,15%,In-Store
+N-1359,31/01/2026,Bilal Wilson,external ssd 1tb,1,$98.51,0%,in store
+N-1417,04/02/2026,Hassan Davis,bluetooth speaker,1,$80.82,0%,IN-STORE 
+N-1016,05/03/2026,Olivia Wilson,mechanical keyboard,5,$86.76,5%,In-Store
+N-1002,30/05/2026,Daniel Moore,webcam hd,2,$57.36,5%,in store
+N-1172,18/06/2026,Hassan Taylor,NOISE-CANCELLING HEADPHONES,5,$146.13,0%,In-Store
+N-1386,05/05/2026,Ayesha Brown,Ergonomic Chair,1,$244.12,0%,In-Store
+N-1269,07/04/2026,Hannah Rossi,external ssd 1tb,2,$96.26,15%,IN-STORE 
+N-1075,27/03/2026,, USB-C Cable,5,$12.82,15%,in store
+N-1387,17/02/2026,Ayesha Davis,Noise-Cancelling Headphones ,4,$149.55,0%,in store
+N-1140,06/03/2026,Ali Iqbal,NOISE-CANCELLING HEADPHONES,1,$152.83,0%,In-Store
+N-1170,24/05/2026,Daniel Patel, USB-C Cable,0,$12.90,5%,In-Store
+N-1014,14/03/2026,Olivia Sheikh,BLUETOOTH SPEAKER,1,$81.09,0%,In-Store
+N-1181,16/02/2026,Olivia Walker, 27-inch Monitor,2,$221.36,5%,In-Store
+N-1260,08/01/2026,Ayesha Miller,Smart LED Lamp,3,$30.55,0%,In-Store
+N-1138,09/03/2026,Maya Hussain,usb-c cable,2,$12.60,10%,IN-STORE 
+N-1279,04/04/2026,Hannah Rossi,USB-C Cable,2,$13.09,15%,In-Store
+N-1203,03/03/2026,Olivia Butt, External SSD 1TB,5,$98.83,10%,In-Store
+N-1153,04/06/2026,Zara Khan, Bluetooth Speaker,1,$79.65,15%,IN-STORE 
+N-1355,18/06/2026,Daniel Moore,BLUETOOTH SPEAKER,4,$80.58,0%,In-Store
+N-1159,14/03/2026,Ethan Raza,Noise-Cancelling Headphones,1,$147.32,10%,In-Store
+N-1144,20/04/2026,Omar Rossi,Mechanical Keyboard ,2,$89.67,0%,IN-STORE 
+N-1327,05/03/2026,Liam Sheikh,Laptop Stand,1,$34.28,0%,In-Store
+N-1022,11/04/2026,Olivia Wilson,DOCKING STATION,4,$125.93,15%,In-Store
+N-1211,17/03/2026,,27 inch Monitor,4,$215.86,0%,in store
+N-1301,22/01/2026,Ayesha Miller,Noise Cancelling Headphones,1,$149.51,15%,IN-STORE 
+N-1247,20/04/2026,Liam Iqbal, Laptop Stand,1,$35.63,0%,IN-STORE 
+N-1008,30/04/2026,Emma Sheikh, Webcam HD,2,$58.11,0%,In-Store
+N-1019,01/03/2026,Noah Khan,Mechanical Keyboard,5,$90.77,0%,IN-STORE 
+N-1331,06/01/2026,Noah Rossi,Mechanical Keyboard,2,$89.64,0%,in store
+N-1398,15/02/2026,Noah Patel,Ergonomic Chair,2,$251.43,0%,In-Store
+N-1202,21/02/2026,Liam Patel,Ergonomic Chair,2,$254.68,0%,In-Store
+N-1131,30/04/2026,Daniel Davis,Docking Station,4,$131.62,0%,In-Store
+N-1282,05/05/2026,Daniel Patel,MECHANICAL KEYBOARD,3,$91.40,15%,In-Store
+N-1320,05/02/2026,Emma Khan, Docking Station,2,$126.57,5%,IN-STORE 
+N-1132,13/02/2026,Omar Khan,Bluetooth Speaker,1,$77.96,0%,In-Store
+N-1158,09/02/2026,Usman Rossi,Docking Station ,1,$128.21,0%,In-Store
+N-1042,08/01/2026,Zara Malik,27-inch Monitor,2,$219.02,10%,In-Store
+N-1364,23/01/2026,Maya Patel,27-INCH MONITOR,2,N/A,0%,In-Store
+N-1396,01/02/2026,Chloe Rossi,Mechanical Keyboard,2,$90.26,5%,In-Store
+N-1115,30/04/2026,Emma Brown, Docking Station,1,$126.86,0%,In-Store
+N-1048,26/01/2026,Chloe Taylor,USB-C Cable ,1,$13.19,0%,In-Store
+N-1258,11/02/2026,Maya Taylor,usb-c cable,5,$13.12,5%,In-Store
+N-1292,12/04/2026,Emma Malik,Smart LED Lamp ,2,$30.15,0%,IN-STORE 
+N-1284,11/06/2026,Ali Iqbal, Mechanical Keyboard,4,$90.49,5%,in store
+N-1311,10/06/2026,Sofia Taylor,USB-C Cable,3,$12.85,0%,In-Store
+N-1027,03/05/2026,Bilal Davis,Bluetooth Speaker,1,$77.31,15%,In-Store
+N-1194,16/01/2026,Usman Khan,USB-C Cable,4,$12.75,0%,in store
+N-1270,10/06/2026,Liam Ahmed,Bluetooth Speaker ,1,$80.75,5%,IN-STORE 
+N-1309,06/02/2026,Ayesha Taylor,27-inch monitor,2,$222.93,0%,In-Store
+N-1120,18/05/2026,Ethan Taylor,USB-C CABLE,2,$13.35,15%,IN-STORE 
+N-1391,03/03/2026,Hannah Rossi,Mechanical Keyboard ,2,$87.77,0%,In-Store
+N-1326,24/01/2026,Ayesha Raza,Bluetooth Speaker,5,$77.26,15%,In-Store
+N-1068,28/01/2026,Ali Iqbal,Bluetooth Speaker,4,$81.23,0%,In-Store
+N-1296,03/04/2026,Hassan Wilson, Laptop Stand,1,$34.46,5%,In-Store
+N-1236,10/04/2026,Bilal Ahmed,USB-C Cable,1,$12.80,0%,in store
+N-1148,05/03/2026,,Bluetooth Speaker,2,$77.36,10%,In-Store
+N-1338,15/05/2026,Daniel Wilson, External SSD 1TB,1,$100.64,0%,in store
+N-1358,10/03/2026,Hannah Raza,Bluetooth Speaker,1,$76.65,10%,in store
+N-1254,18/03/2026,Fatima Iqbal,smart led lamp,2,$30.05,15%,IN-STORE 
+N-1390,02/03/2026,Ali Miller,Webcam HD,2,$59.58,0%,In-Store
+N-1339,03/03/2026,Maya Raza,noise-cancelling headphones,3,$151.82,10%,in store
+N-1199,01/03/2026,Daniel Ahmed,Laptop Stand,3,$35.81,15%,in store
+N-1315,12/02/2026,Zara Iqbal,Webcam HD,1,$58.36,5%,In-Store
+N-1246,01/05/2026,Hassan Brown, Mechanical Keyboard,2,$90.09,15%,In-Store
+N-1259,20/04/2026,Ali Rossi, Webcam HD,1,$59.49,15%,in store
+N-1277,21/06/2026,Omar Rossi, Smart LED Lamp,2,$30.65,0%,in store
+N-1124,07/05/2026,Daniel Patel, 27-inch Monitor,4,$217.19,5%,in store
+N-1206,09/06/2026,Liam Sheikh,Wireless Mouse ,1,$24.80,0%,IN-STORE 
+N-1025,04/04/2026,Ayesha Rossi,WIRELESS MOUSE,2,$24.67,0%,In-Store
+N-1239,29/03/2026,Ali Taylor,docking station,2,$132.79,0%,In-Store
+N-1393,14/04/2026,Olivia Malik,Ergonomic Chair ,2,$255.74,10%,In-Store
+N-1001,08/02/2026,Olivia Miller,Webcam HD,1,$60.14,0%,In-Store
+N-1299,05/05/2026,Fatima Hussain,External SSD 1TB,2,$98.56,5%,in store
+N-1049,25/03/2026,Chloe Moore,BLUETOOTH SPEAKER,2,$79.91,5%,in store
+N-1304,02/03/2026,Noah Walker,Webcam HD ,1,$60.56,0%,IN-STORE 
+N-1020,14/03/2026,Ayesha Clarke,LAPTOP STAND,4,$35.06,10%,In-Store
+N-1115,30/04/2026,Emma Brown,docking station,1,$126.86,0%,in store
+N-1201,17/03/2026,Fatima Rossi,Laptop Stand,1,$34.30,0%,in store
+N-1003,18/01/2026,Noah Rossi,Noise-Cancelling Headphones,4,$145.06,10%,in store
+N-1118,16/05/2026,Ali Ahmed,Laptop Stand,1,$34.09,10%,In-Store
+N-1278,05/01/2026,Zara Brown,Bluetooth Speaker,5,$80.11,0%,in store
+N-1372,29/03/2026,Chloe Raza,Ergonomic Chair,1,$249.36,10%,IN-STORE 
+N-1291,05/05/2026,Olivia Malik,docking station,2,$127.53,0%,in store
+N-1255,21/06/2026,Omar Butt, Bluetooth Speaker,1,$77.88,0%,In-Store
+N-1061,19/04/2026,Sofia Hussain,Mechanical Keyboard,1,$89.72,0%,In-Store
+N-1073,10/03/2026,Emma Khan,Mechanical Keyboard,2,$88.27,0%,in store
+N-1420,16/03/2026,Ayesha Sheikh,Ergonomic Chair,5,$244.61,0%,In-Store
+N-1281,25/06/2026,Sofia Wilson,smart led lamp,2,$29.65,10%,in store
+N-1123,18/04/2026,Sofia Hussain,Smart LED Lamp,2,$30.29,0%,In-Store
+N-1015,06/06/2026,Omar Iqbal,Mechanical Keyboard,1,$87.50,0%,In-Store
+N-1087,07/06/2026,Fatima Rossi,usb-c cable,1,$12.86,15%,IN-STORE 
+N-1241,16/01/2026,Ayesha Rossi,Noise-Cancelling Headphones ,-1,$152.71,15%,in store
+N-1028,09/03/2026,Bilal Walker,Webcam HD,1,$57.96,10%,IN-STORE 
+N-1035,28/03/2026,Fatima Iqbal,27-INCH MONITOR,1,$218.73,15%,IN-STORE 
+N-1404,05/06/2026,Noah Miller, Laptop Stand,4,$34.02,0%,in store
+N-1234,04/03/2026,Olivia Walker,NOISE-CANCELLING HEADPHONES,2,$152.12,5%,in store
+N-1226,09/02/2026,Noah Patel,Mechanical Keyboard,3,$87.19,0%,In-Store
+N-1103,16/04/2026,Emma Clarke,Ergonomic Chair,2,$248.78,10%,IN-STORE 
+N-1065,10/06/2026,Ethan Moore,Laptop Stand ,2,$34.55,10%,In-Store
+N-1051,21/02/2026,Emma Clarke,docking station,4,$126.07,5%,In-Store
+N-1354,15/01/2026,Ayesha Walker,laptop stand,1,$35.21,0%,in store
+N-1196,05/06/2026,Chloe Raza, Docking Station,1,$129.07,0%,In-Store
+N-1328,02/06/2026,Ayesha Sheikh,External SSD 1TB,5,$101.78,0%,IN-STORE 
+N-1305,22/05/2026,,USB-C Cable ,2,$13.21,15%,In-Store
+N-1125,02/01/2026,Ethan Moore,27-inch Monitor,1,$215.13,0%,IN-STORE 
+N-1004,27/02/2026,Daniel Wilson,Wireless Mouse,1,$25.20,0%,In-Store
+N-1376,04/01/2026,Ayesha Malik,EXTERNAL SSD 1TB,1,$98.99,10%,in store
+N-1341,11/06/2026,Ayesha Sheikh,Smart LED Lamp,1,$30.05,0%,In-Store
+N-1237,21/02/2026,Chloe Sheikh,Mechanical Keyboard,1,$90.85,5%,In-Store
+N-1380,04/01/2026,Maya Clarke, Smart LED Lamp,2,$29.73,0%,IN-STORE 
+N-1174,02/05/2026,Olivia Ahmed,Mechanical Keyboard,1,$87.02,5%,IN-STORE 
+N-1166,02/02/2026,Daniel Iqbal,Laptop Stand,3,$34.05,15%,IN-STORE 
+N-1418,25/05/2026,Noah Patel,external ssd 1tb,1,$99.29,0%,in store
+N-1274,28/06/2026,Olivia Taylor,EXTERNAL SSD 1TB,1,$96.11,5%,in store
+N-1294,29/05/2026,Chloe Hussain,Noise-Cancelling Headphones,3,$148.79,10%,IN-STORE 
+N-1105,17/06/2026,Zara Wilson,Ergonomic Chair,2,$246.02,10%,In-Store
+N-1353,23/05/2026,Maya Iqbal,Webcam HD ,2,$58.24,0%,In-Store
+N-1238,22/02/2026,Bilal Moore,Docking Station,1,$130.08,0%,In-Store
+N-1045,05/01/2026,Emma Walker,Docking Station,1,$131.14,0%,in store
+N-1005,04/02/2026,Ethan Raza,Docking Station,1,$129.31,10%,In-Store
+N-1015,06/06/2026,Omar Iqbal,mechanical keyboard,1,$87.50,0%,In-Store
+N-1195,27/01/2026,Ayesha Butt,usb-c cable,2,$12.71,0%,IN-STORE 
+N-1416,21/06/2026,Bilal Brown,Bluetooth Speaker,2,$76.66,15%,In-Store
+N-1259,20/04/2026,Ali Rossi,Webcam HD,1,$59.49,15%,In-Store
+N-1110,06/01/2026,Ali Wilson,27 inch Monitor,4,$222.23,0%,In-Store
+N-1057,05/01/2026,Olivia Patel,Ergonomic Chair ,2,$249.18,0%,In-Store
+N-1368,31/03/2026,Emma Khan,SMART LED LAMP,1,$30.04,0%,in store
+N-1071,19/01/2026,Zara Raza,usb-c cable,1,$12.64,15%,IN-STORE 
+N-1408,11/01/2026,Daniel Brown,laptop stand,1,$34.02,0%,IN-STORE 
+N-1385,18/01/2026,Noah Wilson,Bluetooth Speaker,2,$78.59,5%,In-Store
+N-1083,24/06/2026,Noah Iqbal,Docking Station,2,$125.16,0%,in store
+N-1197,10/06/2026,Daniel Iqbal,Laptop Stand,1,$34.73,5%,In-Store
+N-1224,07/03/2026,Noah Clarke,ERGONOMIC CHAIR,3,$248.43,15%,In-Store
+N-1266,23/03/2026,Ethan Clarke,27-inch Monitor,1,$222.73,0%,In-Store
+N-1143,15/04/2026,Sofia Miller,27-inch Monitor,5,$219.69,0%,In-Store
+N-1099,31/05/2026,Sofia Sheikh,Noise-Cancelling Headphones,4,$151.29,0%,IN-STORE 
+N-1011,06/05/2026,Ali Miller,mechanical keyboard,1,$90.41,10%,in store
+N-1332,21/03/2026,Zara Butt,Wireless Mouse ,1,$23.79,15%,In-Store
+N-1351,08/01/2026,,Laptop Stand,2,$34.34,10%,In-Store
+N-1108,05/02/2026,Usman Malik,Noise Cancelling Headphones,2,$145.34,0%,In-Store
+N-1089,22/06/2026,Omar Malik,Laptop Stand,5,$34.55,10%,IN-STORE 
+N-1261,04/05/2026,Bilal Clarke,Docking Station,1,$126.78,5%,in store
+N-1413,24/05/2026,Zara Walker,Ergonomic Chair,1,$256.01,15%,In-Store
+N-1289,31/05/2026,Daniel Davis,mechanical keyboard,1,$90.66,10%,in store
+N-1271,17/06/2026,Ayesha Sheikh,Wireless Mouse ,1,$24.92,10%,In-Store
+N-1056,24/01/2026,Hassan Khan,webcam hd,3,$59.19,5%,In-Store
+N-1066,15/02/2026,Zara Sheikh,Smart LED Lamp,1,$30.88,0%,IN-STORE 
+N-1244,12/06/2026,Fatima Iqbal, Wireless Mouse,2,$24.96,0%,IN-STORE 
+N-1164,10/05/2026,Liam Clarke,WEBCAM HD,3,$58.23,10%,in store
+N-1173,06/05/2026,Emma Brown,External SSD 1TB,5,$100.57,5%,In-Store
+N-1043,08/03/2026,Usman Raza,Webcam HD,1,$57.45,15%,In-Store
+N-1249,22/01/2026,Hassan Clarke,Smart LED Lamp,2,$30.63,0%,In-Store
+N-1242,22/06/2026,Hassan Hussain, Ergonomic Chair,1,$244.88,15%,In-Store
+N-1187,26/02/2026,Hannah Davis,USB-C CABLE,4,$12.93,0%,In-Store
+N-1079,08/02/2026,Ethan Clarke,Bluetooth Speaker ,1,$80.54,15%,IN-STORE 
+N-1055,21/04/2026,Chloe Wilson,Mechanical Keyboard,3,$88.58,0%,IN-STORE 
+N-1176,22/03/2026,Chloe Rossi,Wireless Mouse,1,$24.87,5%,in store
+N-1053,09/02/2026,Hassan Clarke,Wireless Mouse,2,$25.06,5%,In-Store
+N-1402,04/04/2026,Hassan Raza,USB C Cable,1,$13.11,15%,In-Store
+N-1016,05/03/2026,Olivia Wilson,Mechanical Keyboard,5,$86.76,5%,In-Store
+N-1216,02/01/2026,Hassan Iqbal,USB-C Cable,1,$12.98,0%,in store
+N-1356,28/01/2026,Chloe Brown,Ergonomic Chair ,1,$247.76,15%,In-Store
+N-1090,29/04/2026,Emma Taylor,Laptop Stand ,1,$36.03,10%,In-Store
+N-1023,16/01/2026,Fatima Rossi, Noise-Cancelling Headphones,2,$148.47,0%,IN-STORE 
+N-1054,25/01/2026,Olivia Iqbal, 27-inch Monitor,1,$225.44,0%,in store
+N-1157,04/05/2026,Sofia Raza,Docking Station ,1,$131.29,15%,In-Store
+N-1362,15/06/2026,Maya Khan,Noise Cancelling Headphones,5,$147.93,0%,In-Store
+N-1162,24/01/2026,Olivia Sheikh,Wireless Mouse,5,$24.90,0%,IN-STORE 
+N-1324,10/06/2026,Fatima Davis, Ergonomic Chair,2,$241.68,15%,IN-STORE 
+N-1290,12/03/2026,Usman Iqbal,Mechanical Keyboard ,3,$89.18,10%,in store
+N-1084,09/05/2026,Usman Rossi,Ergonomic Chair,1,$252.67,5%,In-Store
+N-1322,28/02/2026,Liam Malik,Docking Station,1,$131.55,10%,in store
+N-1218,24/02/2026,Noah Iqbal,Laptop Stand ,1,$34.17,15%,in store
+N-1286,03/06/2026,Maya Khan,ergonomic chair,1,$250.51,0%,in store
+N-1382,06/01/2026,Daniel Brown,Noise-Cancelling Headphones,4,$149.74,0%,IN-STORE 
+N-1276,01/05/2026,Fatima Clarke,Smart LED Lamp,1,$29.86,0%,in store
+N-1033,13/03/2026,Bilal Hussain,USB-C Cable,2,$13.14,0%,In-Store
+N-1411,29/03/2026,Chloe Taylor,Bluetooth Speaker,1,$79.84,0%,in store
+N-1007,17/01/2026,Daniel Malik,Ergonomic Chair,5,$251.70,5%,IN-STORE 
+N-1214,30/03/2026,Bilal Miller,Wireless Mouse,2,$24.82,0%,in store
+N-1106,11/04/2026,Omar Walker, Smart LED Lamp,1,$29.23,10%,In-Store
+N-1182,09/03/2026,Omar Moore, Mechanical Keyboard,1,$89.73,0%,in store
+N-1033,13/03/2026,Bilal Hussain,USB C Cable,2,$13.14,0%,In-Store
+N-1388,17/05/2026,Olivia Patel, Webcam HD,4,$59.54,0%,in store
+N-1369,06/04/2026,Chloe Wilson,Noise-Cancelling Headphones ,1,$152.40,5%,in store
+N-1314,16/04/2026,Noah Clarke,Noise-Cancelling Headphones,1,$146.95,0%,in store
+N-1370,13/04/2026,Emma Patel,Bluetooth Speaker ,1,$77.44,0%,In-Store
+N-1012,29/03/2026,Hassan Iqbal, Webcam HD,5,$57.47,0%,In-Store
+N-1152,03/06/2026,Fatima Rossi,27-INCH MONITOR,3,$219.17,0%,in store
+N-1360,05/06/2026,Omar Wilson,EXTERNAL SSD 1TB,5,$100.14,0%,IN-STORE 
+N-1287,20/04/2026,Noah Wilson,External SSD 1TB,4,$100.10,10%,IN-STORE 
+N-1104,13/02/2026,Bilal Raza,Mechanical Keyboard,3,$87.83,0%,In-Store
+N-1136,14/04/2026,Daniel Wilson,smart led lamp,1,$29.93,0%,In-Store
+N-1101,11/05/2026,Maya Malik,Noise-Cancelling Headphones,3,$151.55,5%,In-Store
+N-1381,10/03/2026,Omar Rossi,USB-C Cable,3,$12.75,10%,in store
+N-1361,01/04/2026,Ethan Sheikh,ergonomic chair,4,$249.39,10%,In-Store
+N-1102,11/06/2026,Olivia Butt,USB-C Cable,2,$13.16,0%,IN-STORE 
+N-1225,10/05/2026,Fatima Hussain,27-INCH MONITOR,2,$222.35,10%,In-Store
+N-1009,04/03/2026,Sofia Davis,Ergonomic Chair,5,$254.60,15%,In-Store
+N-1265,10/05/2026,Hassan Malik,Laptop Stand,5,$35.60,0%,In-Store
+N-1377,10/03/2026,Usman Moore,External SSD 1TB ,1,$99.44,5%,In-Store
+N-1040,21/05/2026,Usman Clarke,Mechanical Keyboard,1,$86.41,15%,IN-STORE 
+N-1100,27/01/2026,Daniel Davis,Laptop Stand ,1,$34.46,0%,IN-STORE 
+N-1389,31/03/2026,Usman Brown,Noise-Cancelling Headphones,4,$146.24,0%,In-Store
+N-1145,18/04/2026,Bilal Taylor,Wireless Mouse,1,$24.11,5%,in store
+N-1085,20/01/2026,Zara Brown,Laptop Stand,2,$34.42,15%,In-Store
+N-1207,05/02/2026,Daniel Rossi,USB-C Cable,1,$12.65,10%,In-Store
+N-1416,21/06/2026,Bilal Brown,Bluetooth Speaker,2,$76.66,15%,In-Store
+N-1401,02/04/2026,Olivia Taylor,Laptop Stand,1,$35.91,0%,in store
+N-1316,09/02/2026,Chloe Miller,Wireless Mouse,2,$24.59,0%,In-Store
+N-1175,24/01/2026,Emma Moore,Webcam HD,1,$57.37,0%,In-Store
+N-1098,20/02/2026,Ayesha Davis,Wireless Mouse,2,$24.31,5%,In-Store
+N-1406,11/06/2026,Liam Brown,laptop stand,5,$35.44,0%,in store
+N-1317,07/03/2026,Fatima Sheikh,wireless mouse,-1,$25.22,0%,in store
+N-1363,18/05/2026,Ethan Clarke,Mechanical Keyboard,4,$89.40,10%,IN-STORE 
+N-1350,04/04/2026,Emma Butt, Docking Station,2,$129.87,5%,IN-STORE 
+N-1233,27/04/2026,Ali Patel,Wireless Mouse ,2,$24.69,0%,in store
+N-1221,20/05/2026,Chloe Walker,Noise Cancelling Headphones,4,$153.31,15%,In-Store
+N-1069,25/02/2026,,Ergonomic Chair,2,$253.96,15%,In-Store
+N-1295,18/02/2026,Fatima Malik,27-inch Monitor,1,$214.80,15%,In-Store
+N-1245,20/06/2026,Ali Taylor,Webcam HD,2,$59.92,15%,In-Store
+N-1329,02/04/2026,Noah Patel, Wireless Mouse,4,$24.61,0%,In-Store
+N-1037,15/02/2026,Ali Patel,Bluetooth Speaker,1,$80.43,15%,In-Store
+N-1129,17/04/2026,Daniel Miller,Mechanical Keyboard,1,$88.43,15%,In-Store
+N-1337,12/04/2026,Liam Khan,Ergonomic Chair,-1,$251.90,10%,IN-STORE 
+N-1169,02/04/2026,Omar Clarke,Noise-Cancelling Headphones,2,$153.21,0%,in store
+N-1273,25/05/2026,Daniel Iqbal,Noise-Cancelling Headphones ,1,$151.90,5%,In-Store
+N-1191,04/02/2026,Ayesha Brown,Mechanical Keyboard,1,$88.74,0%,In-Store
+N-1412,22/06/2026,Chloe Clarke,Noise Cancelling Headphones,5,$151.34,0%,In-Store
+N-1029,07/02/2026,Usman Khan,Webcam HD ,2,$60.69,0%,In-Store
+N-1342,21/04/2026,Fatima Moore,Webcam HD,1,$58.03,5%,In-Store
+N-1116,24/06/2026,Omar Taylor, Docking Station,1,$129.40,0%,IN-STORE 
+N-1210,15/03/2026,Bilal Ahmed,smart led lamp,1,$29.27,15%,IN-STORE 
+N-1302,05/05/2026,Sofia Wilson,Bluetooth Speaker ,1,$79.98,0%,in store
+N-1263,23/02/2026,Ethan Raza,Docking Station,3,$128.40,10%,In-Store
+N-1200,14/01/2026,Zara Butt, Laptop Stand,4,$35.38,10%,IN-STORE 
+N-1205,11/04/2026,Sofia Walker,27-inch monitor,1,$212.86,0%,in store
+N-1058,28/02/2026,Omar Rossi,wireless mouse,2,$24.16,0%,In-Store
+N-1300,05/06/2026,Hannah Hussain, External SSD 1TB,1,$98.04,0%,in store
+N-1046,06/02/2026,Bilal Ahmed,MECHANICAL KEYBOARD,1,$88.07,10%,in store
+N-1371,20/01/2026,Ethan Moore,Webcam HD,1,$57.62,0%,IN-STORE 
+N-1141,19/03/2026,Hannah Brown,USB-C CABLE,3,$13.27,5%,In-Store
+N-1323,07/05/2026,Zara Walker,Ergonomic Chair,2,$243.58,15%,In-Store
