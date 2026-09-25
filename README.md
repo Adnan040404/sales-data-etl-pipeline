@@ -1,5 +1,7 @@
 # Sales Data ETL Pipeline
 
+![tests](https://github.com/Adnan040404/sales-data-etl-pipeline/actions/workflows/tests.yml/badge.svg)
+
 This project takes messy sales exports from three different systems and turns
 them into one clean database, an Excel report, and a few answers to business
 questions. It runs from a single command.
